@@ -1,0 +1,4560 @@
+168	Thomas Jefferson	3
+168	Ken Wissoker	1
+169	Lance Orchid	3
+169	Seth Kaye	2
+169	Siva Vaidhyanathan	1
+169	Thomas Jefferson	26
+169	Aimee Carter	3
+170	Amy Woolard	3
+170	Anna Xie	20
+170	Anne-Marie Angelo	2
+170	Ann Etchison	14
+170	Arts Squared	1
+170	bethel h.	1
+170	B S	1
+170	Caroline Rayner	1
+170	Courtney Ritter	1
+170	C-VILLE News Desk	1
+170	Deborah Cohen	1
+170	Derick Waller WNCN	2
+170	Doctor Cleveland	2
+170	Drew Lawrence	1
+170	Faith Harden	1
+170	Geoffrey Skelley	1
+170	High Noon Comms	1
+170	Holly Middleton	5
+170	Ida Oetgen	1
+170	Jay Jennings	2
+170	Jeff E. Schapiro	1
+170	Jen on the Edge	1
+170	Jessie Wright	2
+170	Joel McGlothlin	1
+170	Joe Thorndike	12
+170	John Jackson	1
+170	Josette Torres	1
+170	Josh Powell	2
+170	julie O	1
+170	Lance Orchid	1
+170	Madwoman w/ Laptop	2
+170	Matthew Cameron	2
+170	Michael Carlson	2
+170	Miriam Posner	1
+170	M. Joel Voss	1
+170	NBC29	1
+170	Old Alchemist	27
+170	Prashanth	1
+170	Rector Drogo	4
+170	Ronald Barba	1
+170	Ryan Cordell	1
+170	Ryan Hughes	2
+170	Sean M. Kennedy	2
+170	Siva Vaidhyanathan	21
+170	Sophie Speidel	45
+170	Stacy Smith	2
+170	Stephen Turner	12
+170	Streaking the Lawn	1
+170	The Cavalier Daily	3
+170	The Historianess	73
+170	The Hook newspaper	4
+170	Thomas Jefferson	2
+170	Tom Daly Photography	7
+170	Wendy Hsu	1
+170	William Deal	2
+170	W. Keith Davis	2
+170	WTJU 91.1FM UVa	1
+170	WUVA Online	1
+170	Wyeth Ruthven	3
+170	Aaron Dotson	3
+171	Aaron McDowell	16
+171	Aaron Richardson	9
+171	Abigail Holeman	32
+171	adamreno	2
+171	Ahson Wardak	1
+171	Alan Jacobs	2
+171	Al-Hassan Koroma	8
+171	Alie	1
+171	Alvin aqua Blanco	2
+171	Amanda	1
+171	Amomynous	1
+171	Amy Bass	1
+171	Amy Watts	5
+171	Amy Woolard	1
+171	Ana Marie Cox	16
+171	Andrea D. Copeland	1
+171	Andrea SarateMcNeill	2
+171	Andy Jenks	4
+171	Andy Priest	13
+171	Aneesh Chopra	1
+171	Anita Kumar	1
+171	Anita Williams	9
+171	Anna Scholl	3
+171	Anna Xie	1
+171	Anne-Marie Angelo	7
+171	anne taufen wessells	32
+171	Ann Etchison	1
+171	Anthony Maly	4
+171	Anya Good	1
+171	Aquiles Damiron	1
+171	Baba Callipyge	1
+171	Barbara Teague	11
+171	B. Dickson	1
+171	Bella Stander	1
+171	Bethany Nowviskie	1
+171	Bob DuCharme	15
+171	Bob McDonnell	4
+171	Bradley Daigle	6
+171	Brendan Mahoney	6
+171	Brooke Levi Vincent	1
+171	B S	1
+171	Carey Sargent	2
+171	Catherine Andrews	2
+171	Catherine Read	1
+171	cdorobek	1
+171	Chad	1
+171	Chanel	1
+171	Charlie Tyson	5
+171	Charlotte Howell	1
+171	Charniele Herring	1
+171	Chelyen Davis	1
+171	Cheri Campbell	2
+171	Chris Dunlap	1
+171	Chris Duong	1
+171	Chris Smeds	1
+171	Chris Stover	1
+171	Christine G H Franck	2
+171	Christopher Chu	1
+171	Christopher Long	1
+171	Claire Wyatt	2
+171	Colin Hood	1
+171	Community Relations	8
+171	Connor Jones	1
+171	CRs at UVA	1
+171	Cushing Whitney	3
+171	CVille Bars	3
+171	C'ville Bubble Blog	1
+171	cvillenews.com	4
+171	C-VILLE News Desk	7
+171	Dahlia Lithwick	7
+171	Daily Progress	8
+171	Dan 	2
+171	Dana Magliola	17
+171	Dana Wheeles	7
+171	Dan Cohen	2
+171	Daniel de Vise	18
+171	Dannika Lewis	20
+171	Dante C	2
+171	Darah Bonham	6
+171	Darden School at UVA	3
+171	Darren Kinnaird	1
+171	davekarpf	1
+171	daveweigel	9
+171	David Robson	1
+171	David Solimini	1
+171	David Storm	4
+171	David Teel	3
+171	Day.	4
+171	DCdoozy	1
+171	DeanJ @ UVaAdmission	1
+171	Delegate Bob Brink	3
+171	delrayser	4
+171	Denise Linn	1
+171	Derick Waller NBC17	7
+171	Derick Waller WNCN	4
+171	Dissent Magazine	49
+171	Doc Thelma	2
+171	Doug Francis	1
+171	Doug French	1
+171	Douglas Reed	1
+171	Dru	2
+171	Dustin Hardstock	1
+171	Eamon Penland	1
+171	Edie Patterson	9
+171	Ed Sykes NBC29	3
+171	elisabethseng	5
+171	Elizabeth	10
+171	Elizabeth Blake	1
+171	Elizabeth Catherine	4
+171	Elizabeth Drew	1
+171	Elizabeth Molacek	1
+171	Em	1
+171	Emmi	1
+171	Eric Cunningham	4
+171	Eric Mennel	1
+171	Eric Rettberg	1
+171	Erika	1
+171	Evan Macbeth	1
+171	Failed Academic	2
+171	Faith Harden	1
+171	Fiddler 	2
+171	Flavia	1
+171	fletcher jones	2
+171	Gabriel Hankins	3
+171	Gary Younge	3
+171	Geoffrey Skelley	1
+171	George Online	9
+171	Glenda Morgan	2
+171	GlobalHigherEd	1
+171	Good AM Washington	3
+171	Goy Hebrew Prof	1
+171	Graham Moomaw	1
+171	GrahamTribble	25
+171	Grant P	1
+171	Grayson Coats	4
+171	Greg Greene	2
+171	Greg Lewis	2
+171	Greg O'Reagan	1
+171	Greg Swaim Show	2
+171	Gretchen Gueguen	3
+171	Grumpy Historian	3
+171	Haas Policy	1
+171	Hank Silverberg	17
+171	Heather Lefkowitz	2
+171	Heather White	1
+171	Helen Dragas	7
+171	Henry Graff	15
+171	Hoa	22
+171	ian aitken	1
+171	Ian Bogost	1
+171	Ian Crawley	5
+171	Isaac Wood	1
+171	Jack Cooper	2
+171	Jake Gross	6
+171	Jamelle Bouie	1
+171	James	26
+171	James Scales	1
+171	Jason Cottrell	3
+171	Jason Linkins	8
+171	Jason Mittell	22
+171	Jay McKinnon	6
+171	Jay Rosen 	3
+171	Jean Bauer	9
+171	Jeff McLean	1
+171	Jeff Miller	4
+171	Jeff Uphoff	2
+171	Jennifer McClellan	6
+171	Jennifer Mendelsohn	8
+171	Jennifer Morgan Gray	13
+171	jenny gardiner	1
+171	Jen on the Edge	4
+171	Jessie Chapman	7
+171	Jilly	5
+171	Jim Arnold	1
+171	jimcoan	3
+171	Jim Duncan	1
+171	Jocelyn Sears	3
+171	Joel McGlothlin	2
+171	Joe Thorndike	8
+171	John Edwin Mason	1
+171	John Flowers	13
+171	John Jones	11
+171	John Laycock	4
+171	John Shifflett	1
+171	John Terry	1
+171	John Whittle	3
+171	Jonathan Becker	2
+171	Jonathan Dresner	5
+171	Jonathan Hooe	2
+171	Jon Malesic	8
+171	Joseph Taylor	2
+171	Josh Bland	6
+171	Josh Low	2
+171	Josh Powell	1
+171	Joshua Foa Dienstag	2
+171	Jo Watts	5
+171	JPJ_PhD	3
+171	Julia Pizzi	1
+171	Jurretta Heckscher	1
+171	Karen Lillis	1
+171	Karen Torgersen	4
+171	karla holloway	1
+171	Karoli	1
+171	kat 	2
+171	Katea12	2
+171	Kate Bowles	1
+171	Kate Smith	3
+171	Katina Rogers	1
+171	Katy Pearce	3
+171	Keith Alnwick	2
+171	Keith Williams	3
+171	Kendall Rogers	5
+171	Kenton Ngo	1
+171	Kerby	1
+171	Kevin Johnson	1
+171	Kevin King	1
+171	Kevin Simowitz	4
+171	kevinsullivan	7
+171	Kieran Healy	8
+171	Kristin Lane	4
+171	Kristin McCracken	6
+171	Kyle King	1
+171	Kyle P. Adams	1
+171	lambert strether	1
+171	laplanck	12
+171	Larry Sabato	1
+171	Lauren Walter	6
+171	Lawgeek	2
+171	Lela Graham	1
+171	Leslie Rock	1
+171	Letitia Green	2
+171	Libby Nelson	1
+171	Lisa McIntire	9
+171	Liz Burnett	1
+171	liz busch	6
+171	Liz McMillen	1
+171	LTP	3
+171	mai-linh hong	11
+171	Main Street Muse	6
+171	Mai-Vi	1
+171	makowrites	2
+171	Margo Howard	3
+171	Maria Bustillos	1
+171	Marianne Montgomery	1
+171	Marie @whysheruns	3
+171	Mark A. Matienzo	1
+171	Market Central	1
+171	Mark P.	19
+171	Marv Goosen	1
+171	Mary Saville	10
+171	Mason Posner	2
+171	Matilda	2
+171	Matt Hedstrom	1
+171	Matthew Cameron	2
+171	Matthew Kirschenbaum	17
+171	Matthew Tully	1
+171	Matt Motyl	3
+171	Matt Paco	4
+171	Matt Talhelm	2
+171	Max Fenton 	7
+171	mccNYU	2
+171	Medley	1
+171	Melissa Jensen	2
+171	Melissa Savenko	1
+171	Melissa Smith	1
+171	Michael Carlson	2
+171	michael phillips	10
+171	Michael Terry	2
+171	Micheline Maynard	1
+171	Michelle N. Meyer	1
+171	Mike DeBonis	1
+171	Mike Scott	27
+171	Mike Slaven	2
+171	Miriam Posner	4
+171	M. Joel Voss	2
+171	Molly Schwartzburg	17
+171	morgan	16
+171	Mrodigy911	4
+171	Mrudula Venigalla	1
+171	NBC29	2
+171	 Nicholas Martin	135
+171	Nick Anderson	2
+171	Nicole Eramo	1
+171	Nicole Gugliucci	7
+171	Nigel Cameron	1
+171	Nikki Perrier	1
+171	Old Alchemist	1
+171	Ousadia & alegria 	7
+171	Pam DeGuzman	1
+171	Pamela Scully	20
+171	Paul Rosenberg	4
+171	Paul Wiley	1
+171	Peg	2
+171	Peter Carey	1
+171	Peter M. Carey	3
+171	Peter Rodriguez	5
+171	Phillipp Santiago	1
+171	pierce	7
+171	PostLocal	2
+171	Prashanth	17
+171	Rachel Fishman	3
+171	R. Cooper	1
+171	Rebecca Moore Howard	6
+171	Rebekah Carter	3
+171	Rector Drogo	3
+171	Rex Young	17
+171	Richmond Good Life	6
+171	Right Now I/O Feed	2
+171	Robert DuPree	1
+171	Robin Osler	11
+171	RobKrupicka	1
+171	Robo Richard Florida	2
+171	Rob Pegoraro	1
+171	Rob Reich	3
+171	Ronald Barba	1
+171	Rudie Verstrate	1
+171	Ryan Cordell	3
+171	Ryan Crawford	3
+171	Ryan Hughes	1
+171	Ryan Nobles	2
+171	S. A. Glennon	7
+171	Sally Hemings Kid	1
+171	Sam Atkinson	15
+171	Sara Goldrick-Rab	1
+171	Sarah Leonard	1
+171	Sarah Tolzmann	1
+171	Sarah Williamson	1
+171	scholarslab	1
+171	Scott Kolber	1
+171	Sean McCord	2
+171	Sean M. Kennedy	6
+171	Sean Simons	12
+171	seantubbs	10
+171	Seth Cullop	9
+171	sethdmichaels	3
+171	Seth Kaye	1
+171	Shane Mettlen	10
+171	Shaun Kenney	2
+171	Shawn Brydge	1
+171	sheeler	12
+171	Sherman Dorn	2
+171	Sherry Lake	3
+171	Sigrid Cordell	2
+171	Simeon Fitch	8
+171	Siva Vaidhyanathan	1
+171	Small & Chic Home	100
+171	Stacey McDonough	1
+171	stacy kerr	11
+171	Stacy Smith	2
+171	Stephen Ramsay	5
+171	Stephen Sweeney	23
+171	Steve Bragaw	1
+171	Steve Contorno	6
+171	Stevie Chancellor	1
+171	Streaking the Lawn	1
+171	SummerSocialWebshop	45
+171	Suraj Jain	2
+171	Susan Garfinkel	3
+171	Suzi McC	1
+171	Tara Casey	13
+171	T.D.	4
+171	Ted Striphas	4
+171	Ted Strong, reporter	1
+171	Tess Goodman	9
+171	The Cavalier Daily	1
+171	The Daily Progress	308
+171	The Historianess	14
+171	The Hook newspaper	9
+171	The Roanoke Times	6
+171	ThinkProgress	1
+171	ThinkTankedWaPo	3
+171	Thomas Jefferson	1
+171	Tiffany	13
+171	Tiki Barber	1
+171	Tim Ciesco	3
+171	Times-Dispatch	2
+171	Todd Campbell	1
+171	Tom Donohue	1
+171	Tom Scheinfeldt	5
+171	Tousled Pigtails	2
+171	Trace Carter	1
+171	Trent M Kays	1
+171	TRINITYPREZ	6
+171	Tuckahoe Strategies	1
+171	UVA	1
+171	Veiga de Almeida	23
+171	Victoria McGrane	1
+171	Watchdog VA Bureau	2
+171	WCAV CBS19	1
+171	Wendy	3
+171	Wendy Hsu	1
+171	Writing Life	1
+171	WTOP 	3
+171	WUVA Online	2
+171	Wyeth Ruthven	18
+171	Wynn Toms	11
+171	Yatzek	1
+171	Yugo Chavez	2
+171	Zach Carter	1
+171	Zefal	24
+171	Aaron Bady	1
+172	Aaron Dotson	44
+172	Abby Swingen	7
+172	Adam Golub	3
+172	Adam Gutterman	1
+172	Adam Santalla	1
+172	Adan Quan	1
+172	Adeline Koh	1
+172	Alan Howze	1
+172	Alan Jacobs	8
+172	Alexander Campolo	5
+172	alexanderchee	3
+172	Alex Holcombe	2
+172	Alexis Ohanian	1
+172	Alie	2
+172	Alison Seaman	1
+172	Allen Boyd	1
+172	Amanda Bower	1
+172	Amanda French	7
+172	Amanda Krauss	7
+172	Amber	1
+172	amelia abreu	1
+172	A. Michael Berman	1
+172	Amitava Kumar	1
+172	Amy Woolard	9
+172	Andrew Berger	12
+172	Andrew Hartman	1
+172	Andria Krewson	3
+172	Andy Jenks	1
+172	Anita Kumar	4
+172	Anna Creech	4
+172	Anna Scholl	1
+172	Anne de Jong	4
+172	Anne-Marie Angelo	1
+172	Ann Etchison	13
+172	A. Patriot	5
+172	A Real Virginian	1
+172	Arturo Esteve	1
+172	A.S. D'Urso	3
+172	Barbara Smith	4
+172	Baristas Tweet	2
+172	Becca Smoot	1
+172	Ben	2
+172	Bethany Nowviskie	1
+172	Bill Herman	2
+172	Binh Nguyen	5
+172	Blair Capps	1
+172	BluePlanetRadio	4
+172	Bob Webb	1
+172	Bob Witeck	1
+172	Bora Zivkovic	1
+172	Bradley Daigle	2
+172	Brendan Nyhan	3
+172	Brennan Lowery	1
+172	Brian Muse	1
+172	Brooke Lester	2
+172	Bryan Alexander	2
+172	Carmen S. Collins	1
+172	Caroline Emerson	2
+172	Catherine Flippen	1
+172	Cathy Finn-Derecki	1
+172	Cav Daily Alumni	1
+172	Charlie Tyson	4
+172	Chepstow Festival	2
+172	Chris	2
+172	Chris Dembitz	1
+172	Chris Forster	6
+172	Chris Nehls	7
+172	Chris Stover	3
+172	Christian DMZ	2
+172	Christine G H Franck	1
+172	Christopher Porter	4
+172	Chris Wilson	1
+172	Chronicle	2
+172	Claire Wyatt	7
+172	Corey Booker	1
+172	Coy Barefoot	1
+172	Criss Reynolds	8
+172	Cushing Whitney	2
+172	C'ville Bubble Blog	5
+172	C-VILLE News Desk	1
+172	Dahlia Lithwick	8
+172	Dairy Godmother 	10
+172	Dan 	1
+172	Dana Wheeles	6
+172	Dan Cohen	3
+172	Daniel Colbert	15
+172	Daniel de Vise	1
+172	Daniel Drezner	17
+172	Daniel Greene	9
+172	Daniel Mendelsohn	2
+172	Daniel Wright	9
+172	Dante C	1
+172	Darth Vader, MBA	2
+172	davekarpf	3
+172	David Armitage	4
+172	David Parry	1
+172	David Swanson	5
+172	David Teel	1
+172	dawne	3
+172	DCdoozy	2
+172	debgalant	1
+172	delrayser	1
+172	Denise Linn	1
+172	Derigan Silver	2
+172	Dirk Koopmans	1
+172	Dissent Magazine	1
+172	DR.BROWN-DEAN	1
+172	Dust Ben	7
+172	Elizabeth McCullough	1
+172	Elizabeth Molacek	1
+172	elly jackson	2
+172	Emmi	1
+172	Empresa y Empleo UVa	1
+172	EMTO	3
+172	Eric Bradbury	1
+172	Eric D. M. Johnson	4
+172	erin kissane	4
+172	essselle	6
+172	Evan Morris	2
+172	Evelyn Ponce	1
+172	eVestment HedgeNews 	2
+172	Evgeny Morozov	1
+172	Failed Academic	1
+172	Faith Harden	1
+172	Flavia	7
+172	Fletcher Durant	1
+172	Friday Thoughts	1
+172	Gardner Campbell	1
+172	Geoffrey Skelley	1
+172	George Online	1
+172	George Privon	5
+172	George Sundman	3
+172	Gerry Canavan	1
+172	Gil Brown	3
+172	Goy Hebrew Prof	2
+172	Graham Moomaw	1
+172	Greg Greene	26
+172	Greg Johnson 	2
+172	Greg Lewis	1
+172	Greg Swaim Show	17
+172	Gretchen Gueguen	1
+172	Haas Policy	1
+172	Hamza Shaban	12
+172	Hannah Morgan	9
+172	Harry Clements	1
+172	Heather White	1
+172	Helen Dragas	2
+172	Henry Graff	1
+172	Highway Llama	56
+172	Hugo	14
+172	Ian Bogost	1
+172	Ian Davey	12
+172	Ian Gadd	1
+172	IHEtech	1
+172	Inside Higher Ed	5
+172	Isaac Wood	16
+172	Jacob Remes	7
+172	Jacquelyn Kittredge	1
+172	Jake Gross	1
+172	Jamelle Bouie	1
+172	james allworth	11
+172	James Hadland	2
+172	Jane B Kulow	1
+172	Jane Colony Mills	1
+172	Jane Friedman	1
+172	Janet Frick	1
+172	Janine Utell	1
+172	Jason Linkins	3
+172	Jason Mittell	12
+172	Jason Toth	5
+172	Jay Rosen 	1
+172	jclaireva	21
+172	Jeff E. Schapiro	1
+172	Jeff McLean	3
+172	Jeff Uphoff	1
+172	Jenna Johnson	6
+172	Jennifer McClellan	1
+172	Jennifer Mendelsohn	16
+172	Jennifer Wicke	6
+172	jenny gardiner	1
+172	Jen on the Edge	2
+172	Jessie Chapman	9
+172	Jim Arnold	4
+172	Jim Duncan	1
+172	Jim Groom	5
+172	Jim Jansen	1
+172	John Edwin Mason	2
+172	John Flowers	46
+172	John Laycock	35
+172	John Overholt	1
+172	John Podhoretz	2
+172	John Whittle	1
+172	Jonathan Hooe	2
+172	Joseph Figueroa	1
+172	J. TaylorMontoya,PhD	34
+172	Judith Burstyn	1
+172	Juliana Barton	2
+172	Julia Pizzi	2
+172	Jurretta Heckscher	3
+172	Justin Pope	2
+172	Kai Ryssdal	4
+172	Kalani Craig	1
+172	Karen Lillis	6
+172	Kari Kraus	1
+172	Katie Couric	4
+172	Katina Rogers	51
+172	Keith Niebuhr	4
+172	Keith Williams	1
+172	kerry dougherty	10
+172	Kevin King	2
+172	Kevin Loker	2
+172	Kevin Simowitz	1
+172	kevinsullivan	2
+172	Kevin Werbach	7
+172	Kieran Healy	1
+172	Kim Blake	36
+172	Kris Markman	1
+172	Kristel Poole	2
+172	Kristina Killgrove	1
+172	Kristina Olson	5
+172	Kristy Hansen	1
+172	Kyle Chadwick	1
+172	Lana 	1
+172	laplanck	1
+172	laura olin	10
+172	Lewis Shepherd	1
+172	Liam Goldrick	4
+172	Library Loon	4
+172	Liz Burnett	1
+172	Liz McMillen	3
+172	LOCS 	1
+172	Lora Kelley	2
+172	lorcan dempsey	2
+172	lowkell	1
+172	Luke Russert	2
+172	Lyle 	3
+172	Lynda Harrill	2
+172	mai-linh hong	1
+172	Main Street Muse	3
+172	Major Events Office	4
+172	makowrites	1
+172	Mandahl	2
+172	Marc Davis	1
+172	Marianne Montgomery	2
+172	Marjorie	3
+172	Mark	1
+172	Mark Allen	2
+172	Mark P.	2
+172	Matt Hedstrom	1
+172	Matthew Cameron	2
+172	Matthew Kirschenbaum	11
+172	Matthew Schmitz	2
+172	Matt Motyl	8
+172	MC Pittman	2
+172	Meagan Kittle-Autry	4
+172	meekohi	1
+172	Meghan Topp	2
+172	Melissa McGrath	4
+172	Melissa Savenko	2
+172	Melissa Smith	1
+172	MGoShoe	3
+172	Michael Carlson	2
+172	Mike Furlough	3
+172	Mike Gruss	3
+172	Mike Konczal	1
+172	MikeLondonCries	2
+172	Mike Scott	2
+172	Mike Slaven	1
+172	M. Joel Voss	3
+172	Mohammad Fadel	7
+172	Myrna E. Morales	1
+172	Natalia Cecire	1
+172	Nate Daugherty	3
+172	NBC29	1
+172	Neil Schlager	70
+172	Nick DeAngelo	2
+172	Nynke Bos	1
+172	NY Review of Books	1
+172	On Leadership	1
+172	pammoran	1
+172	Patrick H	1
+172	Patrick Terpstra	4
+172	Paul Fyfe	3
+172	Paul Harvey	36
+172	Peggy Garvin	1
+172	Pilot Opinion	1
+172	Pindakaas!	3
+172	Practicum Partners	1
+172	Rachel L-W 	2
+172	Rachel V	1
+172	R. Cooper	3
+172	Rebecca Saunders	13
+172	reclaim UC	1
+172	Rector Drogo	1
+172	Richard Martin	2
+172	Rosemary G. Feal	1
+172	Ryan Cordell	1
+172	Sara Goldrick-Rab	2
+172	Sarah Leonard	9
+172	Sarah Werner	5
+172	Saul Tannenbaum	2
+172	Scorebusters	6
+172	Scott Nesbit	1
+172	Scott Selisker	2
+172	Sean McCord	5
+172	Sean M. Kennedy	14
+172	seantubbs	10
+172	Seth Kaye	11
+172	Shawn Brydge	6
+172	Shawn Graham	1
+172	Sherman Dorn	4
+172	Sifting & Winnowing	2
+172	Siva Vaidhyanathan	1
+172	soy Dominicano mami	84
+172	SSLeadershipS at JMU	1
+172	Staci D Kramer	1
+172	Stacy Smith	2
+172	Stephanie Whitney	4
+172	Stephen F. Diamond	1
+172	Stephen Ramsay	1
+172	Stephen Saideman	3
+172	Steve Contorno	3
+172	Strategy Dynamo	1
+172	Streaking the Lawn	2
+172	Sue	9
+172	suebob212	3
+172	Suraj Jain	5
+172	Susan Garfinkel	1
+172	Susan Murph	4
+172	Suzi McC	2
+172	syed ali	10
+172	Sywert van Lienden	2
+172	Taylor Carmines	1
+172	T.D.	1
+172	Ted Strong, reporter	1
+172	Ted Underwood	9
+172	The Cavalier Daily	4
+172	The Daily Progress	359
+172	The Historianess	57
+172	The Hook newspaper	13
+172	The Roanoke Times	1
+172	TheVirginiaAdvocate	3
+172	TheWash	1
+172	The Washington Post	3
+172	They call me b.	6
+172	Thomas Jefferson	1
+172	Tiki Barber	27
+172	Tim Ebner	2
+172	Times-Dispatch	1
+172	Timothy Burke	27
+172	Tim Stewart-Winter	20
+172	Tom Glendening	7
+172	Tom Scheinfeldt	2
+172	Trace Carter	1
+172	Trendsmap DC	1
+172	Trent M Kays	1
+172	tressie mc	1
+172	Trip Kirkpatrick	1
+172	twang	4
+172	U.S. Project	2
+172	UVA	1
+172	UVA Faculty Senate	70
+172	UVA School of Ed	18
+172	Victoria McGrane	6
+172	Virginia Business	4
+172	Virginia Wrestling	1
+172	Vivian J. Paige	1
+172	Warren Bingham	2
+172	Watchdog VA Bureau	8
+172	William McJunkin	1
+172	World Uni Rankings	1
+172	Writing Life	1
+172	WUVA Online	8
+172	Wyeth Ruthven	10
+172	Yatzek	24
+172	Yesi 	2
+172	Zeynep Tufekci	1
+172	Zinie Chen Sampson	2
+172	Aaron Bady	2
+173	Aaron McDowell	7
+173	Aaron Pallas	2
+173	Aaron Richardson	1
+173	Adeline Koh	15
+173	Aimee Carter	1
+173	ajw93	1
+173	Alan Ota	1
+173	Alex Gil	1
+173	Alie	3
+173	Allen Groves	12
+173	Amanda	11
+173	Amanda French	2
+173	Amanda G.	14
+173	Amy Woolard	1
+173	Andy Jenks	29
+173	Anita Kumar	2
+173	Anna Scholl	37
+173	Anna Xie	3
+173	Anne Hyslop	3
+173	Anne-Marie Angelo	4
+173	Ann Etchison	9
+173	Anne Whisnant	2
+173	ariashe	1
+173	Arturo Esteve	2
+173	Ashley Storey	1
+173	believers never die.	1
+173	Ben Nuckols	3
+173	Ben Tribbett	2
+173	Bethany Nowviskie	2
+173	bethel h.	66
+173	Bobby	1
+173	Bob McDonnell	1
+173	Bob Webb	2
+173	Brad Franklin	1
+173	Bradley Daigle	4
+173	Brett Bobley	2
+173	Brett Gazard	1
+173	Brian Nosek	1
+173	Brian Payst	2
+173	Bruce Baker	2
+173	Bruce Leshan	3
+173	Carly Kocurek	5
+173	Catherine	2
+173	Catherine S. Read	1
+173	Cathy Grimes	1
+173	Cathy Lewis 	1
+173	Cees Vervoorn	1
+173	Center for Politics	4
+173	Charlie Tyson	1
+173	Chelyen Davis	1
+173	Christine G H Franck	1
+173	Christopher Long	19
+173	Christopher Porter	1
+173	Chronicle	2
+173	Chuck Moran	4
+173	Claire Wyatt	2
+173	College of Education	1
+173	Coy Barefoot	1
+173	C'ville Bubble Blog	3
+173	cvillenews.com	2
+173	C-VILLE News Desk	3
+173	Daily Progress	3
+173	Dan 	3
+173	Dana Wheeles	1
+173	Dancing Elephants	2
+173	Dan Cohen	1
+173	Daniel de Vise	14
+173	Daniel Greene	5
+173	Daniel Maxey	1
+173	Dannika Lewis	1
+173	Dave Jamieson	2
+173	David Armitage	5
+173	David Bolick	1
+173	David Griffin	1
+173	David J. Toscano	2
+173	David Kazzie	1
+173	David Teel	1
+173	dawne	23
+173	Dean Barker	4
+173	DeanJ @ UVaAdmission	2
+173	Derek Brameyer	4
+173	DigitizationServices	1
+173	Donna Bowman	2
+173	Edie Patterson	1
+173	elisabethseng	1
+173	Emily Sullivan	5
+173	Emmi	1
+173	Eric Bradbury	6
+173	Eric D. M. Johnson	1
+173	Eric McDaniel	13
+173	Eric Rettberg	5
+173	erika meitner	2
+173	Erin Korte Hatten	4
+173	Erin Templeton	1
+173	Evan Macbeth	1
+173	Everett Will	1
+173	Folia Web	1
+173	Fox News Opinion	4
+173	Gerry Canavan	2
+173	GlobalHigherEd	2
+173	Goy Hebrew Prof	5
+173	Graham Moomaw	1
+173	Greg Greene	6
+173	Greg Lewis	26
+173	Gretchen Gueguen	9
+173	Haas Policy	4
+173	Hannah Moore	10
+173	Happening Now	1
+173	Helen Dragas	1
+173	Helen Sonner	3
+173	Henry Gillette	4
+173	Henry Graff	1
+173	I Am UVa	22
+173	Ian Sommerville	4
+173	Inside Higher Ed	2
+173	Ira Steven Nathenson	2
+173	Isaac Wood	3
+173	Jack Cooper	4
+173	Jack Grimmer	1
+173	Jacob Weisberg	1
+173	Jamelle Bouie	1
+173	James Love	1
+173	James Pulizzi	4
+173	Jamie Dailey	1
+173	Jane B Kulow	1
+173	Jay Rosen 	7
+173	jclaireva	33
+173	Jeff E. Schapiro	2
+173	Jeffrey Cordell	8
+173	Jenna Johnson	1
+173	Jennifer McClellan	69
+173	Jennifer Mendelsohn	3
+173	Jennifer Spiller	2
+173	jenny gardiner	2
+173	Jen on the Edge	2
+173	Jessie Chapman	5
+173	Jillian C. York	1
+173	jimcoan	5
+173	Jim Duncan	2
+173	Jim Groom	1
+173	Joanna Berger	1
+173	Joel McGlothlin	1
+173	Joe Schilling	1
+173	John Edwin Mason	1
+173	John Flowers	63
+173	John Garcia Jr.	10
+173	John Shifflett	4
+173	John Wilbanks	1
+173	John Wills Lloyd	1
+173	Jonathan Becker	1
+173	Joseph Figueroa	1
+173	joshbarr	3
+173	Judith Burstyn	1
+173	Julia Pizzi	5
+173	Jurretta Heckscher	1
+173	Karen Torgersen	2
+173	Kari Kraus	2
+173	Kathleen Fitzpatrick	1
+173	Katie Couric	1
+173	Katie L. Thompson	84
+173	Katie Neville	1
+173	Keith Niebuhr	1
+173	Keith Williams	4
+173	Kevin Kiley	3
+173	Kevin King	13
+173	Kevin Werbach	1
+173	Kieran Healy	3
+173	Kim Connolly	6
+173	Kris Markman	1
+173	Kristin McCracken	1
+173	Kyle King	2
+173	Lance Orchid	1
+173	Larry Ferlazzo	2
+173	Larry Sabato	5
+173	Lauren Walter	1
+173	Lavanya M Proctor	1
+173	Lee  Beale	1
+173	Lewis Shepherd	1
+173	Liam Goldrick	1
+173	Liz C. Taylor	1
+173	Liz McMillen	2
+173	Logan Spencer	3
+173	lowkell	1
+173	Luke Ward	1
+173	mai-linh hong	4
+173	makowrites	3
+173	Mamadayva	1
+173	Matt Ammentorp	2
+173	Matt Gold	1
+173	Matt Hedstrom	1
+173	Matthew Cameron	4
+173	Matthew Kirschenbaum	1
+173	Matt Motyl	24
+173	Matt Trogdon	1
+173	Matt Yglesias	1
+173	Megan Howard	13
+173	Meghan Topp	1
+173	Melanie L. Marshall	3
+173	MGoShoe	1
+173	Michael J. Altman	7
+173	michael phillips	1
+173	Michael Zimmer	3
+173	Micheline Maynard	7
+173	Mike	1
+173	Mike Burlin	2
+173	Mike Konczal	1
+173	M. Joel Voss	1
+173	Nancy Williams	17
+173	Natalie M. Houston	1
+173	NBC12 WWBT Richmond	1
+173	NBC29	1
+173	NBC News US	76
+173	Nick Anderson	6
+173	Nicole Gugliucci	1
+173	Norm Wood	1
+173	Occupy Davis	2
+173	Old Alchemist	1
+173	One Direction	2
+173	On Leadership	1
+173	Open Society 	1
+173	Ozma	1
+173	Pamela Scully	1
+173	PM Higgins	1
+173	PostLocal	1
+173	PostSchools	2
+173	Prashanth	1
+173	PurpleSwagg	1
+173	Rachel V	2
+173	R. Cooper	11
+173	RealClearPeople	23
+173	reclaim UC	1
+173	Religion & Politics	1
+173	Richmond Magazine	4
+173	Ruth Kastenmayer	1
+173	Ryan Cordell	1
+173	Ryan Hughes	3
+173	Ryann	1
+173	Ryan Nobles	1
+173	Sam C	2
+173	Sara Goldrick-Rab	3
+173	Saul Tannenbaum	25
+173	Scott Anderson	2
+173	Scott Selisker	1
+173	Sean McCord	2
+173	Sean M. Kennedy	16
+173	seantubbs	11
+173	Serpentine202	1
+173	sethdmichaels	1
+173	Seth Kaye	1
+173	shana	9
+173	Shane Liesegang	1
+173	Shane Mettlen	6
+173	Sherman Dorn	1
+173	Simon Trommel	2
+173	Siva Vaidhyanathan	1
+173	Slippery When Wet	96
+173	SocWomen	5
+173	Sonny Dearth	1
+173	Sophie Speidel	1
+173	Stacey McDonough	3
+173	Stacy Smith	1
+173	STEPHEN DORFMAN	3
+173	Stevie Chancellor	1
+173	Streaking the Lawn	5
+173	Susan Garfinkel	9
+173	Suzi McC	7
+173	tamar lewin 	2
+173	Tara Casey	8
+173	Ted Strong, reporter	4
+173	The Cavalier Daily	21
+173	The Daily Progress	293
+173	The Dream	25
+173	The Historianess	1
+173	The Hook newspaper	3
+173	The Nation	4
+173	The Roanoke Times	1
+173	TheWash	7
+173	The Washington Post	2
+173	ThinkProgress	49
+173	Thomas Jefferson	1
+173	Tiki Barber	10
+173	Tim de Graaff	2
+173	Times-Dispatch	1
+173	Tim Noble	6
+173	Tom Glendening	2
+173	Toni Barskile	4
+173	Tonya Howe	1
+173	treeandapple	1
+173	tressie mc	1
+173	TwitUVA	1
+173	UVA	1
+173	UVA Faculty Senate	85
+173	UVA School of Ed	66
+173	Virginia Baseball	2
+173	Virginia Business	18
+173	Virginia Swim & Dive	2
+173	Vivian J. Paige	5
+173	Warren Bingham	2
+173	William Guilford	2
+173	Women in Higher Ed	1
+173	Writing Life	2
+173	WUVA Online	1
+173	Wyeth Ruthven	7
+173	Yatzek	8
+173	Yoni Appelbaum	3
+173	Zach Carter	2
+173	Zinie Chen Sampson	6
+173	Zirkle Blakey	4
+173	Aaron Dotson	1
+174	Aaron McDowell	13
+174	Aaron Richardson	1
+174	AdamThierer	3
+174	Adan Quan	1
+174	Adeline Koh	1
+174	Alex Burns	1
+174	Alex Holcombe	1
+174	Al-Hassan Koroma	1
+174	Alie	1
+174	Amanda	1
+174	Amanda Bower	1
+174	Amanda French	1
+174	American Maverick	6
+174	Amy	2
+174	Amy Doonan Cronin	1
+174	Amy Woolard	2
+174	Andrew Goldstone	37
+174	Andy Cutler	1
+174	Andy Jenks	1
+174	Aneesh Chopra	1
+174	Angus Johnston	1
+174	Anita Kumar	2
+174	Anne Holub	17
+174	Anne-Marie Angelo	1
+174	Ann Etchison	1
+174	A.S. D'Urso	1
+174	Audrey Choi	1
+174	Austin Mitchell	1
+174	bailey thomson	1
+174	barbara fister	2
+174	Ben	2
+174	Ben Domenech	1
+174	Bethany Nowviskie	1
+174	bethel h.	30
+174	Biogalia	13
+174	Bobbie Spellman	1
+174	Bob Rathbun	2
+174	Brad Franklin	3
+174	Bradley Daigle	7
+174	Brendan Wolfe	1
+174	Carly Kocurek	1
+174	Carmen S. Collins	1
+174	Caro Pinto	1
+174	Cathy Grimes	2
+174	CBS 6 WTVR Richmond	2
+174	Charlie Harper	2
+174	Charmaine Yoest	2
+174	Cheri Campbell	1
+174	chilllllls	1
+174	Chris Hurst	1
+174	Christine G H Franck	1
+174	Christopher Long	26
+174	Christopher Porter	2
+174	Chronicle	2
+174	Clay Frost	75
+174	colin curley	1
+174	corey robin	1
+174	C-VILLE News Desk	1
+174	Dana Wheeles	3
+174	Dan Ballard	1
+174	Dan Cohen	1
+174	Dan Epstein	2
+174	Daniel de Vise	1
+174	Daniel Drezner	7
+174	Daniel O'Donnell	4
+174	Daniel T. Willingham	1
+174	Dante C	1
+174	Dave Wasserman	1
+174	David Kazzie	1
+174	David Sirota	1
+174	David Taintor	1
+174	David Teel	1
+174	dawne	6
+174	DeanJ @ UVaAdmission	7
+174	Derick Waller NBC17	1
+174	Di Johnston	4
+174	Doug Lederman	1
+174	Duncan	2
+174	dvmagazine	1
+174	Eddie Gehman Kohan	1
+174	Ed Morgans	1
+174	Edward	1
+174	Eleanor Angle	1
+174	elisabethseng	1
+174	Elizabeth McCullough	1
+174	Elliot Jordan	1
+174	Ellis Godard	1
+174	Emily Cahn	1
+174	Emily Fenichel	1
+174	Emmi	1
+174	Eric Behrens	5
+174	Eric Bradbury	1
+174	Eric Rauchway	1
+174	Erik Palmer	1
+174	Faith Harden	1
+174	Fox News Opinion	11
+174	Frances Turner	1
+174	Friday Thoughts	1
+174	Gail Hyder Wiley	1
+174	gaylonparsons	2
+174	GC Football	1
+174	Geoffrey Skelley	6
+174	Gil Brown	2
+174	GlobalHigherEd	1
+174	Grad Council	12
+174	GradHacker	2
+174	Graham Moomaw	2
+174	Grayson Coats	32
+174	Greg Britton	2
+174	Greg Greene	1
+174	Gretchen McKay	11
+174	Haas Policy	4
+174	Helen Dragas	3
+174	Helen Sonner	1
+174	Henry Graff	4
+174	Highway Llama	27
+174	Hollie Murphy	1
+174	Howard Blazzard	1
+174	IIS	1
+174	Ilan Kaufer	2
+174	InsideNoVA	1
+174	Intervistato.com	19
+174	InTheCapital	2
+174	Isaac Wood	1
+174	Jacopo Paoletti	9
+174	James Love	1
+174	Jane B Kulow	3
+174	jane mitakides	3
+174	jane s. kim	1
+174	Janette Martin	1
+174	Jason Cottrell	1
+174	Jason Linkins	3
+174	Jason M Kelly	1
+174	Jay Rosen 	2
+174	Jeff E. Schapiro	1
+174	Jeff Uphoff	8
+174	Jena McGregor	10
+174	Jenna Johnson	1
+174	Jennielle Strother	33
+174	Jennifer McClellan	1
+174	Jennifer Mendelsohn	1
+174	Jennifer Spiller	6
+174	jenny gardiner	1
+174	Jen on the Edge	1
+174	Jessie Chapman	3
+174	jimcoan	4
+174	Jim Jansen	1
+174	Jim Prosser	1
+174	jmartpolitico	1
+174	JoeHoo	2
+174	Joe Marotta	2
+174	Joe Thomas	1
+174	John Edwin Mason	2
+174	John Flowers	41
+174	John Laycock	10
+174	Jonathan D. Sousa	3
+174	Joseph Figueroa	3
+174	Joseph Lorenzo Hall	1
+174	Joshua Moran	1
+174	Judith Baker	2
+174	Judith Burstyn	1
+174	Julian Sanchez	3
+174	Julie Carey	1
+174	justindignation	1
+174	Justin Ferber	1
+174	Justin Villegas	4
+174	Kara Swisher	1
+174	Karen Torgersen	1
+174	kat 	1
+174	katherine	1
+174	Katie Couric	2
+174	Katie Neville	11
+174	K Cloutier-Blazzard	4
+174	Keith Niebuhr	5
+174	Keith Williams	2
+174	Kelley Shepherd	2
+174	Ken Feltman	1
+174	Kevin Kiley	1
+174	Kevin Werbach	4
+174	Kieran Healy	1
+174	Kirsten Schofield	3
+174	Kris Markman	3
+174	Kristina Killgrove	1
+174	Kristin McAuliffe	1
+174	Kyle Kondik	1
+174	Lambeth Field	1
+174	Larry Ferlazzo	2
+174	Larry Sabato	1
+174	Laurel	5
+174	Lauren Whittington	2
+174	LeeWilletts	1
+174	Leigh Turner	1
+174	Liz C. Taylor	1
+174	LTP	1
+174	Maggie McNamara	2
+174	mai-linh hong	1
+174	Major Events Office	4
+174	makowrites	1
+174	Manuwa	2
+174	Margot Durkin	1
+174	Mario Salva	1
+174	Mark Brooks	1
+174	Mark Herring	1
+174	Mark Phillipson	1
+174	Martin Bashir	1
+174	Matthew Cameron	1
+174	Matthew Kirschenbaum	5
+174	Matthew Reidsma	2
+174	Matthew Rimmer	1
+174	Matt Yglesias	1
+174	Max J. Rosenthal	1
+174	Melissa McGrath	1
+174	Melissa Smith	1
+174	MGoShoe	3
+174	Mike Konczal	2
+174	Mike Lifsey	6
+174	Mike Scott	1
+174	Mitch Frank	1
+174	MittRomneysCat	2
+174	M. Joel Voss	1
+174	Molly Schwartzburg	2
+174	Mother Jones	4
+174	namhenderson	2
+174	Nancy Williams	1
+174	Napoleon Dolemite	4
+174	Nat Burgwyn	1
+174	NBC29	1
+174	Nicole Gugliucci	76
+174	Nik Philipsen	1
+174	Nynke Bos	2
+174	NYU Archive Workshop	3
+174	Old Alchemist	3
+174	Patrick H	4
+174	Patrick Wilson	5
+174	Paul M.A. Baker	2
+174	Paul Wiley	1
+174	Peggy Garvin	1
+174	Peter A. Finocchio	1
+174	Peter Rodriguez	1
+174	Phil Gentry	1
+174	Pilot Opinion	1
+174	Progression	15
+174	PurpleLisa	1
+174	QQforU	1
+174	R2 | O Zone	1
+174	Rachel V	2
+174	Randi Weingarten	2
+174	R. Cooper	1
+174	reclaim UC	18
+174	Rezo Agrba 	1
+174	riverdaughter	1
+174	Robert J. Holland	1
+174	RobKrupicka	1
+174	rock paper scissors	4
+174	Rosemary G. Feal	1
+174	Roxanne Shirazi	3
+174	Ryan	3
+174	Ryan Crawford	1
+174	Ryan Nobles	2
+174	Sally Hemings Kid	31
+174	Sam C	1
+174	Sam Loewner	1
+174	Sam Shirazi	2
+174	Sara Goldrick-Rab	1
+174	Sara Gould	1
+174	Scott Selisker	7
+174	Scott Wise	2
+174	Sean Donahue	2
+174	Sean Kennedy	1
+174	Sean McCord	7
+174	Sean M. Kennedy	3
+174	seantubbs	9
+174	Seth Cullop	3
+174	Seth Johnson	1
+174	Seth Kaye	1
+174	Sherman Dorn	7
+174	Sherrell Hendrix	3
+174	Siva Vaidhyanathan	3
+174	Small & Chic Home	57
+174	Social Sciences-UvA	1
+174	Stacy Smith	1
+174	Stephanie Nguyen	5
+174	steve jones	9
+174	Stevie Chancellor	3
+174	Streaking the Lawn	1
+174	Suzi McC	33
+174	tamar lewin 	4
+174	Tammy Stafford Ruble	1
+174	Tara Casey	1
+174	Ted Strong, reporter	7
+174	The Cavalier Daily	5
+174	The Daily Progress	197
+174	The Historianess	12
+174	The Hook newspaper	1
+174	The Roanoke Times	13
+174	The Washington Post	4
+174	Thomas Lavin	19
+174	Tiki Barber	2
+174	Times-Dispatch	3
+174	Tina Gordon	1
+174	Tom Glendening	3
+174	Tom Scheinfeldt	3
+174	Trent M Kays	5
+174	TwitUVA	3
+174	UVA	5
+174	U.Va. Alumni	120
+174	UVA Faculty Senate	19
+174	Veronica M	32
+174	Virginia21	2
+174	Virginia Heffernan	5
+174	VitaliteitHvA	1
+174	Vivian J. Paige	1
+174	Wade Hinkle	1
+174	Washington and Lee	2
+174	Watchdog VA Bureau	2
+174	Wendy Hsu	4
+174	Whitney Athayde	1
+174	William Guilford	1
+174	Willie Deutsch	1
+174	WiredAcademic	1
+174	Wired Campus 	1
+174	Writing Life	4
+174	WUVA Online	3
+174	Wyeth Ruthven	4
+174	Yatzek	3
+174	Zach Carter	8
+174	Zinie Chen Sampson	4
+174	Aaron Bady	4
+175	Aaron Dotson	1
+175	AARON N TAYLOR	1
+175	Adam Golub	2
+175	AdamThierer	1
+175	alexanderchee	1
+175	Allen Groves	1
+175	Allison Wright	1
+175	Amanda	5
+175	Amanda Bower	2
+175	Amanda French	1
+175	Amanda G.	1
+175	Amanda Gray	1
+175	Amy Woolard	1
+175	Andrew Hudson	45
+175	Aneesh Chopra	1
+175	Ania Wieckowski	3
+175	Anita Kumar	1
+175	Ann Etchison	7
+175	Anthony Cox Jr.	2
+175	Bethany Nowviskie	5
+175	bloggingheads	22
+175	Brad Franklin	1
+175	Brandon Locke	2
+175	Brett Wood	1
+175	Brit Hume	1
+175	Carrie Brown-Smith	2
+175	cataplexis	1
+175	Catherine Andrews	1
+175	CBS 6 WTVR Richmond	1
+175	Charlie Tyson	2
+175	Charmaine Yoest	1
+175	Chris Smith	1
+175	Christine G H Franck	1
+175	Chronicle	33
+175	 corey jo lloyd	17
+175	Coy Barefoot	4
+175	cvillenews.com	6
+175	Dan Cohen	8
+175	Daniel de Vise	1
+175	Daniel Drezner	1
+175	Dave Weinbaum	4
+175	David J. Toscano	1
+175	David Kazzie	12
+175	David Swanson	1
+175	Dean Barker	3
+175	DeanJ @ UVaAdmission	1
+175	Deborah McGuinness	2
+175	Derick Waller NBC17	1
+175	Dillon Franks	3
+175	Don Taylor	4
+175	Doug Lederman	1
+175	Emmi	1
+175	Eric Bradbury	3
+175	Eric D. M. Johnson	1
+175	Esther Dyson	3
+175	Evan Macbeth	1
+175	Faith Harden	1
+175	Frank Sellin	1
+175	GC Football	2
+175	George Privon	1
+175	Gina C Maddox	1
+175	GlobalHigherEd	1
+175	Henry Graff	15
+175	Howard Riefs	3
+175	I Am UVa	1
+175	Ian Bogost	1
+175	Ifeoma Nwabuje	1
+175	Ilan Kaufer	1
+175	Jack Cooper	1
+175	Jacquelyn Kittredge	1
+175	Jae Jae Johnson	3
+175	Janette Martin	3
+175	Jenna Johnson	1
+175	Jennifer Lee Kirk	12
+175	Jennifer McClellan	1
+175	Jennifer Mendelsohn	24
+175	Jeremy Dibbell	1
+175	Joey Tombs	1
+175	John Edwin Mason	2
+175	John Flowers	12
+175	John Laycock	3
+175	juliawb	3
+175	K Cloutier-Blazzard	2
+175	Kyle Kondik	1
+175	Lance Orchid	1
+175	Larry Sabato	1
+175	Laura Hume	1
+175	LindaPearl	2
+175	LittleSis	1
+175	lowkell	1
+175	Mary Dunleavy NBC 29	1
+175	Matt Hedstrom	3
+175	Matthew Cameron	7
+175	Matthew Kirschenbaum	2
+175	Matthew towey	5
+175	Matt Motyl	1
+175	Matt Talhelm	2
+175	Meghan Topp	1
+175	Micheline Maynard	2
+175	Mike Eilbacher	1
+175	M. Joel Voss	1
+175	NBC29	10
+175	Nick Morley	7
+175	Old Alchemist	1
+175	Old Hippie Charlie	3
+175	pammoran	2
+175	Patrick Wilson	2
+175	Pilot Opinion	1
+175	PurpleLisa	5
+175	RBMS	3
+175	Reihan Salam	2
+175	Religion & Politics	1
+175	remixthebook	1
+175	Ryan Nobles	1
+175	Sal Gentile	3
+175	Sam Jacobs	3
+175	Sam Le	2
+175	Sarah Storti	1
+175	SBChamp Ravens' Fan	1
+175	Scott Wise	1
+175	Sean McCord	2
+175	Sean M. Kennedy	15
+175	Senator Tim Kaine	1
+175	Seth Kaye	5
+175	sheeler	13
+175	Sherman Dorn	2
+175	Siva Vaidhyanathan	1
+175	soy Dominicano mami	14
+175	Stacy Smith	3
+175	steve jones	3
+175	Steven Levy	2
+175	Streaking the Lawn	1
+175	SUPERKINGsley	2
+175	Suzi McC	1
+175	Tara Casey	1
+175	The Atlantic	5
+175	The Cavalier Daily	1
+175	The Hook newspaper	39
+175	The Washington Post	1
+175	Tiki Barber	19
+175	Tim Bolling	35
+175	Tim Sullivan	1
+175	Tom Glendening	1
+175	Tracy Hahn-Burkett	4
+175	United4Honor	2
+175	Up w/ Chris Hayes	8
+175	UT American Studies	18
+175	UVA	2
+175	UVA Faculty Senate	11
+175	UVA Health System	11
+175	Valerie	2
+175	vapoliticsblog	3
+175	Veiga de Almeida	1
+175	Virginia Swim & Dive	1
+175	Vivian J. Paige	8
+175	Wahoos247	2
+175	Waldo Jaquith	1
+175	Warren Bingham	3
+175	Wendy Hall	7
+175	William Antholis	1
+175	WUVA Online	4
+175	Wyeth Ruthven	5
+175	99.1 WNEW 	29
+176	Aaron Dotson	1
+176	AAUP	1
+176	Adam Smith	1
+176	ALA OIF	1
+176	Alex Burns	1
+176	Alex Gil	14
+176	Alex Peterson	1
+176	Alie	2
+176	Allie Pesch	1
+176	Allison Linney	1
+176	Allison Wright	1
+176	Amanda French	6
+176	Amber	1
+176	Amy Woolard	3
+176	andy_s_64	43
+176	Angela Esquivel	1
+176	Anna Xie	2
+176	Anne-Marie Angelo	6
+176	Anne Whisnant	5
+176	Annie Locke Scherer	2
+176	Ann Kovalchick	1
+176	A.S. D'Urso	2
+176	A Spence	2
+176	Ben Tribbett	1
+176	Bethany Nowviskie	1
+176	Boing Boing	20
+176	Brad Franklin	1
+176	Brandon Locke	3
+176	Brennan Lowery	1
+176	Brian J. Geiger	1
+176	Cameron Thompson	1
+176	Carla.	1
+176	Catherine	1
+176	Cathy Davidson	1
+176	Cathy Grimes	22
+176	Charniele Herring	2
+176	chasgold	2
+176	Chris C.	1
+176	Christina Colopy	2
+176	Christine G H Franck	1
+176	Christopher K. Peace	20
+176	Chronicle	2
+176	Chuck Moran	1
+176	 corey jo lloyd	3
+176	crayon	18
+176	cvillenews.com	1
+176	Daniel de Vise	23
+176	Dan Schwartz	1
+176	Dan Seabrook	1
+176	Dave Purcell	2
+176	David Britten	1
+176	David J. Toscano	1
+176	David Teel	25
+176	DeanJ @ UVaAdmission	14
+176	Di Johnston	1
+176	Dustin Bishop 	5
+176	Eddie Gehman Kohan	4
+176	Edward Erikson	6
+176	elisabethseng	1
+176	Elizabeth Molacek	8
+176	Emmi	2
+176	Eric D. M. Johnson	7
+176	Erin Templeton	20
+176	essselle	2
+176	Frank Muraca	5
+176	Gary Younge	1
+176	Gavin Mueller	1
+176	GC Football	1
+176	Georgina Watkins	1
+176	GlobalHigherEd	1
+176	Graham Moomaw	7
+176	Gretchen Ward	32
+176	Haas Policy	2
+176	Hoa	10
+176	I Am UVa	2
+176	Ian Bogost	1
+176	 I'm Just Joey	2
+176	Isi	2
+176	JacomineRavensbergen	2
+176	Jacquelyn Kittredge	1
+176	Jamelle Bouie	8
+176	Jeffrey Cordell	6
+176	Jenna Johnson	2
+176	Jenna Smoot	5
+176	Jennifer McClellan	1
+176	Jennifer Mendelsohn	8
+176	Jennifer Spiller	27
+176	Jen on the Edge	4
+176	John Edwin Mason	1
+176	John Flowers	28
+176	John Ruscher	6
+176	Jon Rice	4
+176	Josh Bland	1
+176	J.Rowland	1
+176	Kalyan Raman	1
+176	Katie Couric	2
+176	Katie Neville	1
+176	Katie Zimmerman	2
+176	Keeon Johnson 	1
+176	Keith Williams	1
+176	Kieran Healy	12
+176	Kimberley R. Barker	1
+176	Lane Casadonte	2
+176	Lara Collier	1
+176	Larry Sabato	2
+176	Lee Camp	11
+176	Leigh Turner	3
+176	Liam Goldrick	9
+176	Liam Wilson	3
+176	lowkell	1
+176	Maggie Thornton	1
+176	Marianne Montgomery	3
+176	marie chu	2
+176	Mary Dunleavy NBC 29	1
+176	Mason OSCAR	40
+176	Matt Hedstrom	1
+176	Matthew Cameron	1
+176	Matthew Kirschenbaum	16
+176	Matthew Stollak	1
+176	Matt Motyl	2
+176	Matt Talhelm	6
+176	'   Mauricio Martins	7
+176	Max Fenton 	1
+176	Meghan Topp	16
+176	Melissa Jensen	1
+176	Michelle N. Meyer	1
+176	M. Joel Voss	4
+176	Nate Daugherty	13
+176	National Satire Mo.	1
+176	NBC29	1
+176	Neil Schlager	4
+176	Old Alchemist	1
+176	Osmosis Jones 	4
+176	Owen Smith	1
+176	Pamela Ross, MD	2
+176	pammoran	1
+176	Paolo	6
+176	Patrick Haworth	2
+176	Patrick Murray-John	1
+176	PC Fleming	1
+176	Philip Morris	1
+176	Pilot Opinion	1
+176	PM Higgins	3
+176	Publishers Weekly	6
+176	PurpleLisa	1
+176	Rachel V	8
+176	Rally For Honor 6/24	2
+176	R. Cooper	20
+176	reclaim UC	6
+176	Refreshment Center	4
+176	Rob Pegoraro	2
+176	Rosalie Morton	1
+176	Roy Kamada	1
+176	Ryan Nobles	1
+176	Samantha Wittchen	1
+176	Sam Le	1
+176	Sara Goldrick-Rab	3
+176	saulsk	8
+176	scholarslab	1
+176	Scott Selisker	20
+176	S.E	1
+176	Sean McCord	1
+176	Sean M. Kennedy	6
+176	Senator Tim Kaine	2
+176	Seth Kaye	6
+176	Shane Liesegang	16
+176	Shawn Brydge	2
+176	Shawn Fahl	2
+176	Sherry Lake	1
+176	Siva Vaidhyanathan	3
+176	Small & Chic Home	50
+176	Stacy Smith	1
+176	Stay Puft	16
+176	Steve Bragaw	1
+176	steve jones	1
+176	Streaking the Lawn	2
+176	Team E3NYC	23
+176	Ted Strong, reporter	1
+176	Tess Krovetz	1
+176	The Cavalier Daily	2
+176	The Daily Progress	95
+176	The Hook newspaper	2
+176	The Washington Post	17
+176	ThinkProgress	36
+176	Thomas Sullivan	1
+176	Thomas Talhelm	4
+176	Tiki Barber	5
+176	Times-Dispatch	5
+176	Tina Gordon	3
+176	Tom Glendening	1
+176	Tom Mark	1
+176	twang	3
+176	TwitUVA	1
+176	Tyler Kingkade	1
+176	UNC Faculty Gov	1
+176	United4Honor	6
+176	Up w/ Chris Hayes	8
+176	UVA	6
+176	UVA Health System	8
+176	Victoria Long	1
+176	Virginia Swim & Dive	2
+176	Vivian J. Paige	1
+176	Wade Hinkle	1
+176	WAMU 88.5 News	6
+176	Wendy Hsu	1
+176	William Guilford	7
+176	Will Schwieder	1
+176	WUVA Online	1
+176	Wyeth Ruthven	8
+176	Zach Carter	5
+176	Aaron Bady	2
+177	Aaron Dotson	1
+177	Aimee Carter	1
+177	Alex Burns	2
+177	Alex Gil	6
+177	Allen Groves	2
+177	Allison Wright	1
+177	Amanda Bower	3
+177	Amanda French	2
+177	Amy Woolard	2
+177	Anita Kumar	10
+177	Anna Lewis	1
+177	Anna Xie	3
+177	Ann Etchison	1
+177	anthropologyworks	3
+177	Axel Dalawar	1
+177	Bec Ludley	1
+177	Bethany Nowviskie	3
+177	Blair Maury	20
+177	Brad Franklin	1
+177	Brett Wood	1
+177	Brian Schwartz	1
+177	Cameron Harris	1
+177	Cameron Thompson	1
+177	Cathy Grimes	1
+177	Cathy Smalley Pales	2
+177	Cedar Riener	2
+177	Christine G H Franck	1
+177	Christopher Hayes	25
+177	Christopher K. Peace	1
+177	Chris Wilson	1
+177	Chronicle	1
+177	CongressInYourPocket	6
+177	Coy Barefoot	1
+177	CronkNews	17
+177	C'ville Bubble Blog	1
+177	CVille Food	1
+177	cvillenews.com	1
+177	C-VILLE News Desk	12
+177	Dan Cohen	1
+177	Daniel T. Willingham	3
+177	Dante C	1
+177	Darden School at UVA	1
+177	David M. Drucker	20
+177	dawne	2
+177	db	1
+177	DeanJ @ UVaAdmission	2
+177	Denise Linn	4
+177	Diana Kinney	2
+177	Doug Lederman	3
+177	Eddie Gehman Kohan	3
+177	Ed Miller	1
+177	elisabethseng	1
+177	Elizabeth Wurtzel	3
+177	Embarazo y Lactancia	1
+177	Emmi	1
+177	EncyclopediaVirginia	6
+177	Eoin Wearen	1
+177	Eric Rettberg	1
+177	Folia Web	5
+177	Friday Thoughts	4
+177	Gavin Mueller	4
+177	Gawker	1
+177	Gerry Canavan	1
+177	GlobalHigherEd	1
+177	Grad Council	11
+177	Graham Moomaw	1
+177	Greg Sargent	10
+177	Haas Policy	1
+177	Hank Silverberg	2
+177	Hanover Research	2
+177	Helen Dragas	1
+177	Henry Graff	3
+177	Hoopla Hokies	2
+177	Ian Bogost	1
+177	Impact Basketball	1
+177	Inside Higher Ed	1
+177	Intervistato.com	2
+177	Isaac Wood	1
+177	Jack Boocock	31
+177	Jacob Weisberg	1
+177	JacomineRavensbergen	1
+177	Jac WhoDat Obama 	2
+177	James Kotecki	2
+177	Jamie Brooks	1
+177	Jason Cottrell	1
+177	Jason H. Moore, Ph.D	1
+177	Jason Linkins	4
+177	Jay Bradshaw	7
+177	J. Chris Pires	1
+177	jclaireva	2
+177	Jeff E. Schapiro	1
+177	Jeff Gauvin	1
+177	Jeffrey Cordell	3
+177	Jeffrey Toobin	1
+177	Jeff Selingo	2
+177	Jenna Johnson	3
+177	Jennifer McClellan	7
+177	Jennifer Mendelsohn	2
+177	Jen on the Edge	5
+177	Jeremy Dibbell	2
+177	Joey Tombs	2
+177	John Edwin Mason	4
+177	John Flowers	6
+177	Jonathan Mulrooney	1
+177	Josette Torres	1
+177	Julia Pizzi	1
+177	JWall	1
+177	karla holloway	1
+177	Kathleen Hubbard	1
+177	Katie Neville	1
+177	Keith Pompey	1
+177	Kelly Johnston	5
+177	Kevin Kiley	6
+177	Kieran Healy	1
+177	Lake	2
+177	Larry Sabato	1
+177	Laura Robertson	1
+177	Lee Price	1
+177	Leigh Turner	1
+177	Liam Goldrick	2
+177	Library of Congress	2
+177	Lisa Spiro	1
+177	little trouble maker	1
+177	Luis Losada Pescador	2
+177	Madwoman w/ Laptop	2
+177	maggie haberman	1
+177	makowrites	1
+177	Marianne Montgomery	2
+177	Mary Dunleavy NBC 29	2
+177	Matt DelSignore WNEW	2
+177	Matt Hedstrom	2
+177	Matthew Cameron	10
+177	Matthew Hatfield	1
+177	Matthew Kirschenbaum	3
+177	Matthew Stollak	1
+177	Matt Motyl	1
+177	Matt Talhelm	1
+177	'   Mauricio Martins	3
+177	Max Fenton 	1
+177	MC Pittman	3
+177	Meghan Topp	4
+177	Melissa Smith	2
+177	MichaelFellows..!	1
+177	michael phillips	1
+177	Mike Furlough	2
+177	Mike Petroff	9
+177	Mike Wagner	1
+177	M. Joel Voss	1
+177	Molly Greenberg	12
+177	Natalia Cecire	1
+177	NBC29	1
+177	Neil Morrissette	8
+177	Nynke Bos	1
+177	OHIO-UVA Fan	1
+177	Old Alchemist	1
+177	Oliver Staley	1
+177	Omeka	8
+177	pammoran	3
+177	Patrick Haworth	1
+177	Paul Jones	1
+177	Pete Myers	4
+177	Peter A. Finocchio	1
+177	Pilot Opinion	4
+177	pourmecoffee	1
+177	Rachel Klimmek	1
+177	R. Cooper	1
+177	Rebecca Harris	11
+177	reclaim UC	1
+177	revtomtravels	1
+177	RobKrupicka	2
+177	Ron Henske	1
+177	RonSupportsYou	1
+177	Samantha Wittchen	1
+177	Sara Goldrick-Rab	1
+177	Sarah T. Roberts	7
+177	Sarah Werner	1
+177	SCE	4
+177	ScholarlyComm	1
+177	Scott Selisker	2
+177	Scott Surovell	3
+177	Sean McCord	1
+177	Senator Tim Kaine	6
+177	Seth Kaye	4
+177	Shawn Brydge	1
+177	sheeler	1
+177	Sidney Burris	2
+177	Siva Vaidhyanathan	1
+177	Small & Chic Home	63
+177	Streaking the Lawn	1
+177	Suzi McC	10
+177	Tad Miller	2
+177	Tammy Purcell	1
+177	Tara Casey	2
+177	Team E3NYC	2
+177	Ted Strong, reporter	1
+177	Terry Rephann	8
+177	Tess Goodman	1
+177	TheAtlanticTech	1
+177	The Cavalier Daily	1
+177	The Daily Progress	58
+177	The Historianess	2
+177	The Hook newspaper	3
+177	The Kojo Nnamdi Show	13
+177	The New Republic	3
+177	The Washington Post	1
+177	Tiki Barber	3
+177	TwitUVA	16
+177	Tyler Kingkade	9
+177	United4Honor	1
+177	UVA	7
+177	U.Va. Alumni	51
+177	UVA Faculty Senate	9
+177	UVA Health System	9
+177	Vivian J. Paige	2
+177	Vivila LaVivi	1
+177	Wade Hinkle	5
+177	Waldo Jaquith	2
+177	Walt McGough	15
+177	WAMU 88.5 News	1
+177	Warren Bingham	1
+177	Will Bunch	1
+177	William Guilford	1
+177	Wil Wheaton	1
+177	WUVA Online	1
+177	Wyeth Ruthven	3
+177	Zinie Chen Sampson	8
+177	Aaron Bady	1
+178	Aaron Dotson	9
+178	Aaron Kessler	1
+178	Aaron Richardson	1
+178	Abby Swingen	7
+178	Abigail Holeman	1
+178	A. Bryant	1
+178	ACE	1
+178	Ahson Wardak	7
+178	Aimee Carter	3
+178	Alan Levine	5
+178	Alexander D. King	1
+178	Alex Burns	3
+178	Alex Holcombe	6
+178	Alexis Ohanian	4
+178	Alison Harper	1
+178	Allison Geller	1
+178	Allison Gray	1
+178	Allison Hudson	1
+178	Alyson Bruner	1
+178	Amanda French	1
+178	Amanda Gray	44
+178	Amber	1
+178	Amit Malhotra	1
+178	amnesty italia	1
+178	Amy	15
+178	Amy Earhart	2
+178	Amy Woolard	1
+178	Andrea Mitchell	3
+178	Andrew Beaujon	40
+178	Andrew Coleman	1
+178	Andrew_Stauffer	1
+178	Andrew Vutsinas	6
+178	Andy Cutler	2
+178	Andy Jenks	1
+178	Angus Johnston	16
+178	Anita Kumar	20
+178	Anna Clark	23
+178	Anna Xie	2
+178	Anne-Marie Angelo	3
+178	Ann Etchison	11
+178	Annette Vee	2
+178	Anne Whisnant	1
+178	Annie Locke Scherer	1
+178	APSCUF	1
+178	AP_Top25	2
+178	Aqura Russell	1
+178	A Real Virginian	1
+178	Areeeeb	2
+178	Arturo Esteve	1
+178	Ashleigh Brock	3
+178	Ashoka Rajendra	2
+178	Axelle Marie	1
+178	BDohnFOX	2
+178	BellingtonFarm	1
+178	Ben! 	3
+178	Ben	1
+178	Ben Domenech	9
+178	Ben Pearman	1
+178	Ben Rice	1
+178	Bethanne Patrick	2
+178	Bethany Nowviskie	1
+178	bethel h.	33
+178	bethgivens5	1
+178	Beth Huang	1
+178	Bill Brown	10
+178	Blair Maury	2
+178	Bobby Grasberger	5
+178	Bob More	2
+178	Brad Franklin	1
+178	Bradley Daigle	7
+178	Brendan Mahoney	1
+178	Brenna Healey	1
+178	Brent Peterson	1
+178	Brett Bobley	1
+178	Brian A. Sponsler	5
+178	Brian Bunton	1
+178	Brian Haluska	1
+178	Brian Hammond	1
+178	Brian Payst	1
+178	Brian Plum	1
+178	Brian Schwartz	1
+178	brittany addison	2
+178	Bruce Baker	2
+178	Bruce Barry	1
+178	Bryan	1
+178	Bryan Kardos	3
+178	Bryan Pfaffenberger	1
+178	Byron Kerr	1
+178	campus_entre	1
+178	Carey Sargent	1
+178	Carin Ruff	4
+178	Carla Chandler	1
+178	Carla Hickman	1
+178	Carl Cannon	2
+178	Catherine	4
+178	Catherine Read	1
+178	Catherine S. Read	1
+178	Cathy Davidson	1
+178	Cathy Grimes	1
+178	Cav Daily Alumni	1
+178	CBS 6 WTVR Richmond	7
+178	CCCCO Gov. Relations	6
+178	cdorobek	1
+178	Chad Lehner	1
+178	Chanders	1
+178	CHARLES GUICE	2
+178	Charles Ruvo	2
+178	Chelyen Davis	1
+178	Chloe'	5
+178	Chris Nehls	1
+178	Chris Stover	2
+178	Christian Trejbal	17
+178	Christine G H Franck	1
+178	Christopher Dickman	11
+178	Chronicle	2
+178	Chuck Todd	82
+178	Claire Wyatt	5
+178	ClinicEscort	3
+178	CMillrod	1
+178	Colburn 3.0	2
+178	Col.French S Mustard	2
+178	Colin Campbell	1
+178	colin curley	1
+178	Colin Hood	1
+178	Coy Barefoot	4
+178	Craig Berger	8
+178	Criss Reynolds	2
+178	Cstew04	1
+178	CVille Bars	1
+178	cvillenews.com	1
+178	C-VILLE News Desk	91
+178	Dacia	3
+178	Dahlia Lithwick	1
+178	Daily Progress	16
+178	Dan Cohen	2
+178	Danica	36
+178	Daniel Colbert	2
+178	Daniel Drezner	1
+178	Daniel Greene	3
+178	Danielle Burger	1
+178	Danielle Driscoll	1
+178	Danielle G.	1
+178	Daniel McDowell	1
+178	Daniel Mendelsohn	1
+178	Daniel O'Donnell	3
+178	Dannika Lewis	2
+178	Dan Patrick	2
+178	Darden School at UVA	5
+178	Dave Jamieson	1
+178	David Crary	2
+178	David Griffin	18
+178	David Hale	1
+178	David J. Toscano	2
+178	David Kazzie	2
+178	David Price	1
+178	David Solimini	4
+178	David Starmer 	2
+178	David Storm	1
+178	David Teel	1
+178	dawne	1
+178	D Christopher Brooks	2
+178	DeanJ @ UVaAdmission	1
+178	DeborahEdwards-Onoro	13
+178	Debra Lattanzi	2
+178	delrayser	2
+178	Dennis Moser	1
+178	Derick Waller NBC17	1
+178	Digital Campus	2
+178	Doc McConnell	4
+178	Don Shall	2
+178	Don Taylor	1
+178	Dot Porter	1
+178	Doug Mataconis	1
+178	Dragas Memes	2
+178	Duncan	7
+178	Ed O'Keefe	3
+178	Education Sector	1
+178	Edward Erikson	2
+178	Edward H. Lane II	1
+178	Edward Vielmetti	1
+178	Eleanor Courtemanche	5
+178	Eleanor Henderson	3
+178	Eli Glazier	1
+178	Elizabeth Dias.	2
+178	Elizabeth Ladner	1
+178	Elizabeth McNichols	1
+178	Elizabeth Molacek	1
+178	Ellen Falci	1
+178	Ellen Schendel	2
+178	Elliott Neidley	3
+178	Emily Babay	1
+178	Emily Fenichel	1
+178	Emily Wilkinson	1
+178	Emmi	1
+178	Eoin Madden	8
+178	Eric 	1
+178	Eric Bradbury	1
+178	Eric Cunningham	1
+178	Eric D. M. Johnson	1
+178	Eric Heilmeier	24
+178	Eric Klinenberg	1
+178	Erin Jackson	16
+178	erin kissane	2
+178	Erin Veasey	3
+178	essselle	1
+178	Ethan 	1
+178	Ethan Gruber	1
+178	Ethan Watrall	1
+178	Ethan White	15
+178	Evan Macbeth	1
+178	Everett Will	1
+178	Fionnula Finan 	1
+178	Frank LoMonte	1
+178	Frank Sellin	2
+178	Friday Thoughts	1
+178	FrMike	1
+178	Gabriel Walters	12
+178	Gail Drakes	1
+178	GayleSchrierSmith,MD	1
+178	Geoffrey Skelley	1
+178	George Siemens	2
+178	Gerry Connolly	1
+178	Gina Thinks	2
+178	GlobalHigherEd	1
+178	GOOD 	21
+178	Good AM Washington	1
+178	Grace	1
+178	Grad Council	3
+178	Graham Moomaw	1
+178	Graythorn Group	37
+178	GreenIsTweet	1
+178	Greg Britton	3
+178	Greg Hite	3
+178	Greg Hsu	2
+178	Greg O'Reagan	1
+178	Gretchen Gueguen	1
+178	Gretel Truong	3
+178	Guy Davis	1
+178	Haas Policy	3
+178	Hamza Shaban	5
+178	Hannah Morgan	2
+178	HearSay Cathy Lewis	1
+178	Heather White	4
+178	Helen Dragas	2
+178	Henry Graff	1
+178	Herding Bats	68
+178	hermela aregawi	1
+178	holly dugan	1
+178	Holly Hacker	1
+178	Holly Klenk	1
+178	Holly Mayton	2
+178	Hoo Crew	1
+178	Hoopla Hokies	3
+178	HuffPost College	1
+178	I Am UVa	1
+178	Ian Nicoll	3
+178	IATH	1
+178	i+D Valladolid	2
+178	Ifeoma Nwabuje	1
+178	ilyse hogue	1
+178	Inside Higher Ed	4
+178	InsideNoVA	70
+178	Isaac Wood	5
+178	IU SPEA Bloomington	4
+178	jacob heil	2
+178	Jacquelyn Gill	1
+178	Jacquelyn Kittredge	1
+178	Jake Daniel	3
+178	Jake Gross	1
+178	Jamelle Bouie	1
+178	James Asher	6
+178	Jamin Mendelsohn	3
+178	Jane B Kulow	1
+178	janeen	1
+178	Jane Friedman	1
+178	Janet Frick	3
+178	Jared Morgan	4
+178	Jason Kenney	1
+178	Jason Lifton	8
+178	Jason Linkins	1
+178	Jason Mittell	27
+178	Jay Doodah	17
+178	Jay Rosen 	1
+178	jclaireva	2
+178	Jeff Atkins	1
+178	Jeffrey Fann	1
+178	Jeffrey Monakana	1
+178	Jenna Johnson	1
+178	Jenna Ross	180
+178	Jenna Smoot	4
+178	jennifer bendery	3
+178	Jennifer McClellan	1
+178	Jennifer Mendelsohn	10
+178	Jennifer Spiller	4
+178	Jennings Grant	1
+178	jenny gardiner	2
+178	Jen on the Edge	4
+178	Jen Sorensen	6
+178	Jeremy Antley	2
+178	Jeremy Dibbell	1
+178	Jeremy Littau	2
+178	Jerry Brito	1
+178	Jessie Chapman	1
+178	JessieNYC	1
+178	Jill Anderson	1
+178	Jim Groom	1
+178	Jim Jansen	1
+178	jimsafley	2
+178	Joan Combs Durso	1
+178	Joan Jacobs	1
+178	Joel McGlothlin	1
+178	Joe Schilling	1
+178	Joey Groah	1
+178	Joey Tombs	1
+178	John Dickerson	6
+178	John Edwin Mason	2
+178	John Fink	42
+178	John Hendren	1
+178	John Kowalski	1
+178	John Laycock	1
+178	John Overholt	2
+178	John Ruscher	9
+178	John Terry	3
+178	John Wertman	2
+178	Jonathan	1
+178	Jonathan Becker	1
+178	Jonathan Hooe	1
+178	Jonathan Rice	2
+178	Jonathan Wilson	1
+178	Jon Unterseh	3
+178	Jordan	2
+178	Joseph Adelman	1
+178	Josh Fairchild	1
+178	Josh Hale	1
+178	J.Rowland	1
+178	J.R. Tolbert	3
+178	Judith Carrera	1
+178	Judy Lawson	1
+178	Julia Green	2
+178	Julia Pizzi	1
+178	Julie Carey	3
+178	Justin Ferber	23
+178	Justin Pope	5
+178	Justin Reich	4
+178	Juventud CYL	1
+178	Kamila Setaro	4
+178	Kareem	1
+178	Karen Torgersen	1
+178	Karen Yourish	1
+178	Kari Kraus	1
+178	Karina Carlson	2
+178	Karoli	1
+178	kat 	5
+178	Kate Poisson	1
+178	Katherine D. Harris	2
+178	Kathleen Fitzpatrick	1
+178	Kathryn Garrett	3
+178	Katie Couric	2
+178	Katie Garrett	42
+178	Katie Watson	1
+178	Katina Rogers	1
+178	Kayla Polonsky 	1
+178	kbohls	1
+178	Keith Pompey	1
+178	Keith Szkodny	1
+178	Keith Williams	3
+178	Kendra Leonard	5
+178	Kenya Reddy	1
+178	Kevin Kiley	2
+178	Kevin King	1
+178	Kevin Simowitz	1
+178	Kirk Ross	1
+178	Kirsten Schofield	10
+178	Kris Amundson	2
+178	Krista Pedersen	2
+178	Kristina Killgrove	11
+178	Kristin Lane	2
+178	Krystle	3
+178	LaKisha Simmons	1
+178	Lane Casadonte	1
+178	laplanck	35
+178	Larry Sabato	5
+178	LaTonya Sadler	83
+178	Laura Byrnes	3
+178	Laura Sahar Oknefski	1
+178	Lauren Whittington	1
+178	Lawrence Messina	1
+178	l_doug	1
+178	Lee Gardner	1
+178	lelliegirl	1
+178	Libby Nelson	1
+178	Lindsay Filz	3
+178	Lisa McCade	1
+178	Lisa McIntire	6
+178	Lisa Wiffledust	38
+178	liz busch	1
+178	Liz Dorland=Chimera	6
+178	Loranne Nasir	1
+178	Lorien MacAuley	1
+178	Los Angeles Times	2
+178	lowkell	1
+178	LTP	1
+178	Luis Losada Pescador	4
+178	Luke Waltzer	1
+178	Lynn	1
+178	Madwoman w/ Laptop	1
+178	Maggie Thornton	7
+178	mai-linh hong	3
+178	Major Events Office	1
+178	Malinda Matney	1
+178	Mallory	2
+178	Marc Pitarresi	1
+178	MargaretNYC	1
+178	Marianne Montgomery	3
+178	Marissa Hermanson	8
+178	Mark Allen	1
+178	Mark Berman	1
+178	Mark Herring	1
+178	Mark Segraves	1
+178	Marlena Spencer	1
+178	Mary Nguyen	1
+178	Mary Ruffin Hanbury	2
+178	Mary Slosson	1
+178	Matt Chingos	1
+178	Matt Hedstrom	1
+178	Matthew Cameron	1
+178	Matthew Hatfield	7
+178	Matthew Kirschenbaum	2
+178	Matthew Peterkin	2
+178	Matt Motyl	1
+178	Matt Schneider	5
+178	Matt Talhelm	2
+178	'   Mauricio Martins	18
+178	Max Fenton 	2
+178	Max J. Rosenthal	2
+178	Megan Howard	2
+178	Meg Moyer	1
+178	Melissa Shohet	1
+178	Melissa Smith	4
+178	Melissa Techman	3
+178	Mellow Mushroom	1
+178	Meta Pettus	1
+178	Michael	1
+178	Michael Carlson	2
+178	Michael Freeman	4
+178	michael phillips	4
+178	Michael Shure	21
+178	Micheline Maynard	4
+178	Michelle N. Meyer	1
+178	Miguel Mora	4
+178	Mike Severy	1
+178	Mike Shor	1
+178	Mike Slaven	3
+178	Miriam Posner	5
+178	M. Joel Voss	2
+178	morgan	12
+178	Morgan Anderson	4
+178	Morgan McCoy	1
+178	Name It. Change It.	1
+178	Nancy Baym	1
+178	Nate Eaton	2
+178	NATI	12
+178	NBC12 WWBT Richmond	2
+178	NBC29	6
+178	NBCWashington	85
+178	nevasue	23
+178	NexisHexus	1
+178	Nicola White	2
+178	Norm Wood	3
+178	Northeast Reporter	2
+178	NP	1
+178	Old Alchemist	4
+178	Pamela Scully	1
+178	Pat Lawson Muse	3
+178	Patrick H	1
+178	Paul Brockwell Jr.	2
+178	Paul D. Shinkman	4
+178	Paul Fyfe	3
+178	Paul Jones	3
+178	Paul Wiley	4
+178	Peggy Fox	1
+178	Perry Willett	7
+178	Pete Myers	1
+178	Peter A. Finocchio	3
+178	Peter Brantley	1
+178	petercarey21	1
+178	Peter Griesar	1
+178	Peter Ubertaccio	3
+178	Philip Morris	9
+178	Phillipp Santiago	1
+178	PJ Coleman	1
+178	PostLocal	1
+178	PurpleLisa	13
+178	PurpleSwagg	1
+178	Quentin	1
+178	Rachel DePompa	10
+178	Rachel Fishman	4
+178	Rachel Johnson	2
+178	Rachel V	2
+178	Rachel Weiner	3
+178	Rally For Honor 6/24	9
+178	Randy P	5
+178	Randy Picker	1
+178	R. Cooper	2
+178	RC Richards	11
+178	Rebecca Skloot	1
+178	reclaim UC	1
+178	Red Armstrong	4
+178	Richie Turpin	3
+178	Richmond Magazine	2
+178	RKO	1
+178	roadkillrefugee	3
+178	Robert J. Holland	1
+178	Robert J. Smith, III	1
+178	Rob Pegoraro	1
+178	Ron Henske	2
+178	Ryan Cordell	3
+178	S.	5
+178	Sakura	1
+178	Saladona	1
+178	Samantha Quig	1
+178	Sam C	1
+178	Sam Taylor	3
+178	sandra fish	1
+178	Sara Goldrick-Rab	1
+178	Sarah Baughman	21
+178	Sarah Jaffe	1
+178	Sarah James	14
+178	Sarah Peelen	1
+178	Sarah Storti	4
+178	Sarah Werner	4
+178	Sasha Belenky	18
+178	SCE	1
+178	ScholarlyComm	1
+178	scholarslab	4
+178	Scott Lincicome	7
+178	Scott Selisker	1
+178	Scott Thurm	1
+178	Sean Kennedy	1
+178	Sean McCord	2
+178	Sean M. Kennedy	1
+178	seantubbs	14
+178	Senator Tim Kaine	2
+178	Sereen Thahir	3
+178	Seth Kaye	1
+178	Seth Price 	1
+178	Shane Liesegang	1
+178	Shawn W. Moore	1
+178	Shelby Brown	1
+178	Sherman Dorn	5
+178	Shikha Gupta	1
+178	silbey	1
+178	Siobhan Donnelly	1
+178	Siva Vaidhyanathan	1
+178	Social Media Junkie	32
+178	soy Dominicano mami	5
+178	SSLeadershipS at JMU	1
+178	Stacey McDonough	1
+178	Stacy Smith	3
+178	Stay Puft	5
+178	Stephanie Whitney	1
+178	Steph Beer	5
+178	Stephen Prothero	1
+178	Steve Bragaw	2
+178	Steve Contorno	3
+178	Steve Gaines	9
+178	Steve Lange	3
+178	Stevie Chancellor	4
+178	Streaking the Lawn	6
+178	Suzannah Evans	93
+178	Suzanne Tate	1
+178	Suzi McC	1
+178	Sydney Shivers	12
+178	syed ali	1
+178	tamar lewin 	2
+178	Tammy Purcell	2
+178	Tammy Stafford Ruble	2
+178	Tara Casey	1
+178	Ted Strong, reporter	12
+178	Ted Underwood	4
+178	Teresa V Parrot	13
+178	The Cavalier Daily	1
+178	The Daily Progress	237
+178	The Feminish Teacher	44
+178	The Finks	2
+178	The Hook newspaper	1
+178	THE KEY PLAY	75
+178	The Roanoke Times	1
+178	The Smoking Ape	3
+178	The Washington Post	2
+178	ThinkProgress	156
+178	Thomas Jefferson	1
+178	Thomas Talhelm	90
+178	Thomas Warren	4
+178	Tiki Barber	1
+178	Times-Dispatch	3
+178	TimNekritz	25
+178	Timothy Burke	2
+178	Timothy Morris	4
+178	Tim Owens	1
+178	Todd Zwillich	1
+178	Tom Hamilton	1
+178	Tom Scheinfeldt	1
+178	treeandapple	5
+178	TwitUVA	1
+178	TwxMe	4
+178	Tyler Kingkade	1
+178	TYT on Current TV	3
+178	UAB Sterne  Library	8
+178	United4Honor	5
+178	Urbanlad	9
+178	Ursula Gross	2
+178	UVA	1
+178	U.Va. Alumni	502
+178	UVaAlumProblems	21
+178	UVa Arts Library	2
+178	UVA Faculty Senate	2
+178	UVaLibrary	13
+178	UVA Living Wage	4
+178	UVA School of Ed	4
+178	VA House Democrats	11
+178	Vanessa Dyce 	2
+178	Veronica M	1
+178	Vicious Cur	30
+178	Victoria McGrane	1
+178	Virginia Baseball	2
+178	Virginia Club of NYC	10
+178	Virginia Swim & Dive	1
+178	Vivian J. Paige	2
+178	Wade Hinkle	10
+178	Wahoo Wire	2
+178	Walt McGough	8
+178	Warren Bingham	4
+178	Watchdog VA Bureau	2
+178	WCAV CBS19	10
+178	Wendy Hsu	1
+178	Wes McElroy	2
+178	West Wing Reports	1
+178	Whet Moser	6
+178	WHSVnews	1
+178	William Patrick Wend	2
+178	William Youmans	2
+178	Witt Salley	3
+178	Wm. Hunter Tammaro	1
+178	World Uni Rankings	3
+178	WTJU 91.1FM UVa	1
+178	WTOP 	4
+178	WUVA Online	10
+178	Wynn Toms	27
+178	Yatzek	1
+178	Yellow nova	9
+178	Zeynep Tufekci	16
+178	Zinie Chen Sampson	17
+178	ACE	1
+179	Adam Compton	6
+179	Adrienne McCallister	1
+179	Aileen Toomey	1
+179	A.j. Jones	1
+179	Alie	3
+179	Allison Wright	1
+179	Amanda French	1
+179	amnesty italia	3
+179	Amy Earhart	4
+179	Amy Woolard	1
+179	Andrea Mitchell	12
+179	AndrewPlemmonsPratt	2
+179	Andrew_Stauffer	1
+179	Andy Jenks	1
+179	Anne-Marie Angelo	4
+179	Anne Whisnant	1
+179	A Real Virginian	1
+179	Ben	1
+179	Ben Dover	2
+179	Bethany Nowviskie	1
+179	birdmanofvienna	3
+179	Bob Woodbury	1
+179	Brad Franklin	1
+179	campus_entre	1
+179	Catherine Andrews	7
+179	Catherine Crier	1
+179	Charles Zhao	2
+179	Christine G H Franck	1
+179	Christopher Hayes	1
+179	Chronicle	1
+179	Con 	22
+179	Coy Barefoot	1
+179	Craig Sampson	3
+179	Current TV	2
+179	CVille Bars	2
+179	CVille Food	1
+179	cvillenews.com	1
+179	cvilleproblems	4
+179	Dahlia Lithwick	1
+179	Daily Progress	7
+179	Dana Magliola	3
+179	Dan Cohen	1
+179	Daniel Greene	19
+179	Daniel Maxey	4
+179	Daniel Mendelsohn	8
+179	Daniel T. Willingham	1
+179	Dan Patrick	2
+179	Dan Taylor	1
+179	David Griffin	1
+179	David Teel	2
+179	DeSantis Holster	4
+179	Doug Lederman	1
+179	Elizabeth Hogan	2
+179	Emmetri Monica Beane	6
+179	Emmi	1
+179	EMTO	1
+179	Eric 	1
+179	Eric D. M. Johnson	1
+179	Eric Klinenberg	5
+179	erika meitner	1
+179	Eszter Hargittai	1
+179	Evan Macbeth	1
+179	Everett Will	1
+179	Examiner Local News	1
+179	Fred Dove	1
+179	FRONTLINE	1
+179	Gary Reid	1
+179	GlobalHigherEd	1
+179	Good AM Washington	18
+179	Graham Moomaw	1
+179	Greg Britton	11
+179	Gretchen Gueguen	1
+179	Haas Policy	1
+179	iCeesah	2
+179	Imani ABL	9
+179	InLocalnewOrleans	2
+179	Inside Higher Ed	2
+179	Ira Socol	6
+179	Jacob Geiger	3
+179	Jacquelyn Kittredge	1
+179	Janet Frick	2
+179	Jason Cottrell	2
+179	Jason Mittell	1
+179	Jeff Selingo	1
+179	Jenna Johnson	8
+179	Jennifer McClellan	60
+179	Jennifer Mendelsohn	1
+179	Jen on the Edge	5
+179	Jen Sorensen	1
+179	Jeremy Dibbell	1
+179	Jeremy Littau	1
+179	Jesse Tuel	1
+179	JessieNYC	1
+179	Joey Tombs	2
+179	John Edwin Mason	2
+179	John Shifflett	6
+179	John Tomlinson	1
+179	Jonathan Mulrooney	2
+179	J.Rowland	1
+179	Jstheater	5
+179	Justin Ferber	1
+179	Justin Pope	2
+179	Karoli	2
+179	Katie Couric	1
+179	Keith Szkodny	2
+179	Keith Williams	4
+179	Keith Wilson	1
+179	Kelly Reinhardt	1
+179	ken carter	1
+179	Kevin Michael Foster	1
+179	Kevin Werbach	2
+179	Kirk Ross	1
+179	Krista Pedersen	2
+179	Kristina Killgrove	1
+179	Krystal Ball	3
+179	Lambeth Field	5
+179	Lane Casadonte	1
+179	Larry Sabato	1
+179	Lauren Russo	3
+179	Lawn Life at UVA	1
+179	LisaGuernsey	1
+179	Lisa McIntire	1
+179	Liz Walsh	18
+179	Mac McClelland	1
+179	Mariah Washington	1
+179	Matt Hedstrom	1
+179	Matthew Hatfield	3
+179	Matthew Kirschenbaum	7
+179	MayaElizabeth	1
+179	Melanie L. Marshall	5
+179	Melissa Smith	2
+179	Melissa Techman	1
+179	Michael	2
+179	Michael E. Mann	1
+179	Michael Kelly	1
+179	Michael Mannion	1
+179	Michael Shure	2
+179	Mike Slaven	1
+179	M. Joel Voss	2
+179	Money Mitch	1
+179	Myra Ann Houser	3
+179	Nancy Lyons Callahan	4
+179	NBC29	1
+179	Neil Branch	6
+179	Nicole Gugliucci	3
+179	Nika	1
+179	Nob Nobson	3
+179	Norm Wood	1
+179	Nynke Bos	2
+179	Old Alchemist	1
+179	Pamela Ross, MD	3
+179	Pamela Scully	1
+179	Peter Patau	1
+179	Peter Rodriguez	4
+179	Philip Auerswald	1
+179	Rachel Weiner	3
+179	R. Cooper	1
+179	Rector Drogo	2
+179	Reeve Hamilton	2
+179	Rocks&Socks	1
+179	#RODDYBDAYWEEK 	2
+179	Roget	9
+179	Ruby G	1
+179	Ruth Kastenmayer	1
+179	sandra fish	1
+179	Sara Goldrick-Rab	3
+179	Senator Tim Kaine	2
+179	sheeler	3
+179	Siva Vaidhyanathan	2
+179	Skolkovo Foundation	13
+179	Social News Network	1
+179	Social Sciences-UvA	1
+179	Sound Survivalist	2
+179	soy Dominicano mami	5
+179	Stacy Smith	1
+179	Steve Contorno	4
+179	Stevie Chancellor	1
+179	Stop David Brooks	1
+179	Streaking the Lawn	1
+179	Sunny Fishscale	11
+179	Susan Jackiewicz	2
+179	Suzi McC	1
+179	Sydney Shivers	1
+179	tamar lewin 	1
+179	Tara Casey	1
+179	Ted Underwood	1
+179	Terence G Rooney	2
+179	Terri Elder	1
+179	Texas Tribune	1
+179	The Cavalier Daily	3
+179	The Daily Progress	28
+179	The Hook newspaper	4
+179	theo ploeg	9
+179	The Washington Post	3
+179	Thomas Jefferson	22
+179	Tiki Barber	5
+179	Times-Dispatch	5
+179	Timothy Burke	1
+179	Tom Perriello	2
+179	Tom Roussey	1
+179	TwitUVA	1
+179	Tyler Smoyer	1
+179	TYT on Current TV	11
+179	UVA	1
+179	U.Va. Alumni	60
+179	UVA Faculty Senate	11
+179	UVA Health System	1
+179	UVa Press	3
+179	UVAStudentActivities	1
+179	VCVaileNFM	1
+179	Veronica M	1
+179	Virginia Baseball	1
+179	Virginia Business	10
+179	Virginia Swim & Dive	1
+179	VisitCharlottesville	5
+179	Wahoos247	1
+179	Waldo Jaquith	1
+179	West Wing Reports	1
+179	Women in Higher Ed	1
+179	WUVA Online	3
+179	Wyeth Ruthven	11
+179	Zach Barefoot	8
+179	.	1
+180	Aaron Bady	1
+180	Alex Burns	1
+180	Allison Doughty	1
+180	Amanda French	2
+180	American Maverick	3
+180	America United	1
+180	Amy Woolard	1
+180	Andrea Mitchell	1
+180	Anna Xie	1
+180	Ben Nuckols	2
+180	Bethany Nowviskie	3
+180	Biogalia	1
+180	Brad Franklin	2
+180	Bryan	3
+180	Carl Magnay	1
+180	Christine G H Franck	2
+180	Chronicle	1
+180	CJay	7
+180	Community Relations	1
+180	Coy Barefoot	1
+180	cv harquail	2
+180	Daily Progress	1
+180	Dan Cohen	2
+180	Dario Cruz	2
+180	David Teel	3
+180	Doug Lederman	2
+180	EDUBEAT	1
+180	Elizabeth Hogan	1
+180	Elliottbryant	1
+180	Emory Maiden	1
+180	Erin Korte Hatten	1
+180	Evan Grey	1
+180	George Branford	3
+180	GlobalHigherEd	2
+180	Haas Policy	8
+180	iai	2
+180	IAS	2
+180	i+D Valladolid	1
+180	IIS	1
+180	Ira Socol	1
+180	Jack Cooper	3
+180	Jeff E. Schapiro	1
+180	Jeff Selingo	1
+180	Jenna Johnson	1
+180	Johanna Miller Lewis	34
+180	John Theibault	3
+180	Joshua O'Neill	1
+180	Keith Williams	1
+180	kristen kenney	1
+180	kyforward	1
+180	Lee King	1
+180	Liam Goldrick	1
+180	Lisa McIntire	1
+180	liz busch	3
+180	LizzieFiles	1
+180	Lodewijk Berkhout	1
+180	Marcus Thomas	1
+180	Mason Thomas	1
+180	Matt Alkire	6
+180	Matt Farrer	2
+180	Matthew Cameron	2
+180	Matthew Hatfield	1
+180	Matt Paco	8
+180	MC Pittman	1
+180	Megan Costello	1
+180	michael phillips	1
+180	M. Joel Voss	20
+180	Molly Schwartzburg	1
+180	Nadia Palacios	1
+180	Old Alchemist	2
+180	PHE	1
+180	Pilot Opinion	3
+180	R. Cooper	1
+180	Rick_Sincere	1
+180	roadkillrefugee	1
+180	Rufio	1
+180	Scorebusters	1
+180	Sean M. Kennedy	1
+180	Shannon D. Smith	1
+180	Siva Vaidhyanathan	3
+180	Stacy Smith	13
+180	Stephanie Mencimer	4
+180	Steve Contorno	1
+180	Streaking the Lawn	1
+180	Suzi McC	15
+180	Tara Casey	1
+180	Taylor Miller	2
+180	The Daily Progress	2
+180	The Washington Post	1
+180	Timothy Burke	30
+180	Travis Ward	2
+180	Treavonne Brandon	2
+180	Trevor W. Baratko	1
+180	United4Honor	2
+180	UVA	4
+180	U.Va. Alumni	23
+180	UVA Health System	4
+180	UVA Law School	1
+180	UVA Lax Fan	1
+180	UVaLibrary	1
+180	UVAStudentActivities	1
+180	Virginia Russell	1
+180	Virginia Swim & Dive	1
+180	Vivian J. Paige	36
+180	Wil Gafney	1
+180	Wm. Hunter Tammaro	2
+180	Women in Higher Ed	2
+180	WUVA Online	5
+180	Wyeth Ruthven	2
+180	Air The King 	4
+181	Alien Weed Man	2
+181	Allison Doughty	1
+181	Amy Woolard	2
+181	Andrew Breen	1
+181	Andy Jenks	10
+181	Aniquae Williams	4
+181	Anna Xie	1
+181	Aqura Russell	1
+181	Ben	2
+181	B Money Babyy 	2
+181	Brad Franklin	1
+181	Brad Gaskill	5
+181	Brandon Hackenberg	1
+181	Brian Schwartz	1
+181	Cathy Clark, CASE	4
+181	chasgold	1
+181	Christine G H Franck	3
+181	Ciro Procuna	1
+181	CJay	1
+181	corinthia	1
+181	Coy Barefoot	3
+181	Daily Press Sports	1
+181	Damon Dillman	1
+181	Dana Magliola	8
+181	Daniel de Vise	1
+181	Dario Cruz	1
+181	David Griffin	6
+181	David Hale	1
+181	Da Voice of Cville 	1
+181	dawne	4
+181	D.Carter	1
+181	delrayser	2
+181	Demetrious Nicholson	5
+181	Denzel	9
+181	Duane Gran	1
+181	Ej Scott	1
+181	Emily Babay	1
+181	Emmi	1
+181	Empresa y Empleo UVa	6
+181	Eric D. M. Johnson	1
+181	Eric Ferreri	2
+181	Erika Layne	1
+181	Flex Ryan	1
+181	Frank Johnson	1
+181	Frank Thuss	2
+181	Friday Thoughts	2
+181	GlobalHigherEd	2
+181	Graham Moomaw	2
+181	Henry Graff	5
+181	HorecaManager	1
+181	HuffPost College	1
+181	Ifeoma Nwabuje	1
+181	Isiah Cowan	1
+181	Jackson Ramalho	3
+181	Jacquelyn Kittredge	1
+181	Jamie Van de Vijver	2
+181	Jason Dail	1
+181	Jeff E. Schapiro	1
+181	Jeffrey V. Mehalic	1
+181	Jenna Johnson	2
+181	jenny gardiner	24
+181	Jen on the Edge	1
+181	Jesse Roth	3
+181	Jim Jansen	1
+181	Jim Roberts	1
+181	John Dickerson	2
+181	John Edwin Mason	4
+181	John Shifflett	2
+181	Jordan Roberts	1
+181	Jordan Van Horn	1
+181	Julie Carey	1
+181	Justin Elflein	1
+181	Kate Bowles	2
+181	Kevin Kiley	1
+181	Krispin Barr	2
+181	Krystal Ball	1
+181	Laura Hume	1
+181	Lewis J. Perelman	1
+181	Lisa Richey	1
+181	MaNNy	2
+181	Mark Berman	1
+181	Matt Hedstrom	2
+181	Matthew Hatfield	1
+181	Max Smith	20
+181	MC Pittman	2
+181	MELessia.	5
+181	Melonie Fullick	2
+181	michael phillips	6
+181	Michael Stoner	3
+181	Mike Carminati	2
+181	Mike Slaven	1
+181	M. Joel Voss	1
+181	Molly Schwartzburg	1
+181	Monte Smith 	5
+181	Natalia Cecire	1
+181	NBC12 WWBT Richmond	2
+181	NBC29	2
+181	NBCWashington	4
+181	Neil Branch	1
+181	Neil Schlager	1
+181	New Jack	1
+181	Norm Wood	1
+181	Patrick H	1
+181	Patrick Lucas	4
+181	PuFF Eye.	1
+181	Rector Drogo	1
+181	RNR	1
+181	Roger Mason Jr	1
+181	Ryan Nobles	16
+181	Sara Goldrick-Rab	10
+181	Satchel Knight	1
+181	Shellie Ridder 	1
+181	Sheppard Bear	1
+181	Skinny Hardaway	1
+181	Sommer Harris	1
+181	Stacey McDonough	3
+181	Stacy Smith	1
+181	Steve Contorno	1
+181	Streaking the Lawn	2
+181	Ted Strong, reporter	35
+181	Ted Underwood	3
+181	The Cavalier Daily	1
+181	The Daily Progress	41
+181	The Roanoke Times	2
+181	The Washington Post	1
+181	Treavonne Brandon	14
+181	TV3 Sports	1
+181	UMW SGA	1
+181	University Ball	1
+181	UVA	6
+181	U.Va. Alumni	21
+181	UVA Faculty Senate	4
+181	UVAStudentActivities	2
+181	Virginia Cavaliers	1
+181	Virginia Swim & Dive	2
+181	VirginiaTechFan	33
+181	Whitney Allen	37
+181	Wil Harville	1
+181	WUVA Online	1
+181	Zach Klein	4
+181	Aaron Bowskill	1
+182	Aaron Dotson	1
+182	Andreas Templin	1
+182	Aron Wint	1
+182	BAM Utiliteitsbouw	1
+182	Brad Franklin	1
+182	Charles Haynes	1
+182	Chelyen Davis	2
+182	Clifford Kiracofe	1
+182	Courtney Haynes	3
+182	Daily Progress	1
+182	Dean WE	1
+182	Digital PR	1
+182	Doug French	1
+182	Ed Berger	1
+182	Emmi	1
+182	Eric D. M. Johnson	7
+182	G.E.D ENTERTAINMENT	1
+182	GlobalHigherEd	9
+182	Haas Policy	2
+182	Jamie Salmon	1
+182	Jasmine Kim 	1
+182	Jenna Johnson	1
+182	Jessie Chapman	4
+182	John Edwin Mason	1
+182	Juventud CYL	5
+182	karla holloway	1
+182	Katie Couric	2
+182	Keith Williams	1
+182	Kelly Johnston	4
+182	Lisa Richey	1
+182	mai-linh hong	1
+182	Mark Berman	1
+182	Matthew Cameron	1
+182	Melissa Smith	2
+182	Mike Slaven	2
+182	M. Joel Voss	1
+182	Old Alchemist	3
+182	Peter M. Carey	1
+182	Sean Kennedy	1
+182	Silent AttrAKAtion	1
+182	Sonny Dearth	1
+182	Stacy Smith	1
+182	Stephen F. Diamond	1
+182	Steven Vincent	1
+182	Suzi McC	1
+182	The Cavalier Daily	3
+182	Tiki Barber	7
+182	-True Hooper (E #3)	1
+182	United4Honor	1
+182	UVA	3
+182	UVA Faculty Senate	3
+182	VA Policy Review	2
+182	Virginia21	1
+182	Virginia Swim & Dive	1
+182	Writing Life	2
+182	Anita Kumar	1
+183	Billy Fucking McKay.	8
+183	Brad Franklin	1
+183	Bradley Hambridge	13
+183	Brian Schwartz	1
+183	Connor Jones	4
+183	CVille Bars	1
+183	David Teel	1
+183	DR.BROWN-DEAN	6
+183	Emmi	1
+183	Eric D. M. Johnson	1
+183	Ian Crawley	1
+183	Ira Socol	1
+183	Irish Sports Daily	3
+183	Jamie Age	3
+183	Jenna Johnson	1
+183	Jessss	7
+183	John Edwin Mason	2
+183	John Hohensee	3
+183	Justin Ferber	1
+183	karla holloway	11
+183	Kayla Sears	1
+183	Keith Niebuhr	1
+183	Kye Andrews	2
+183	Kyle Copp	1
+183	Lee Skallerup	1
+183	Lela Graham	1
+183	Matthew Cameron	1
+183	Matthew Hatfield	1
+183	Melissa Smith	16
+183	Q. Parrish	1
+183	Rivals.com	1
+183	RKO	3
+183	September 8th	1
+183	soy Dominicano mami	1
+183	Streaking the Lawn	2
+183	Suzi McC	6
+183	The Cavalier Daily	1
+183	Theo Smith	2
+183	The Washington Post	1
+183	Tucker Martin	14
+183	UVA	1
+183	Virginia Russell	7
+183	Yassa Arafat	4
+183	amnesty italia	1
+184	Anna Xie	1
+184	Ayuntamiento Adeje	1
+184	BDohnFOX	1
+184	BLOCK	1
+184	Brad Franklin	2
+184	Daniel Marinos	3
+184	David Teel	1
+184	DeanJ @ UVaAdmission	5
+184	Elyse Ashburn	2
+184	er0tikka	1
+184	Evoshield Canes 	1
+184	Gemma Brown	2
+184	GlobalHigherEd	1
+184	Inside Higher Ed	4
+184	Jack Waldren	6
+184	Jenna Johnson	1
+184	Jim Jansen	4
+184	John Edwin Mason	1
+184	Jonathan Rhudy, APR	1
+184	J.Rowland	2
+184	Keith Niebuhr	2
+184	Kendall Rogers	4
+184	Leah Wescott	3
+184	Melonie Fullick	1
+184	Mike Farrell	1
+184	Mike Slaven	6
+184	M. Joel Voss	2
+184	mnorton	1
+184	Nick Anderson	1
+184	Original Argument 	1
+184	PostSchools	2
+184	RBMS	2
+184	reclaim UC	1
+184	Sean Kennedy	3
+184	Siva Vaidhyanathan	3
+184	Stacy Smith	5
+184	Streaking the Lawn	1
+184	The Cavalier Daily	2
+184	UVA	38
+184	Virginia Swim & Dive	9
+184	...	1
+185	Alexis Ohanian	1
+185	Alex Taylor	8
+185	Andrew Vutsinas	1
+185	Anita Kumar	1
+185	BLOCK	1
+185	Brad Franklin	1
+185	Brian Schwartz	3
+185	campus_entre	1
+185	Christine Steinwedel	2
+185	Cindy Watkins Kane	1
+185	Community Relations	2
+185	CVille Bars	1
+185	dan hallett	1
+185	Daniel Mendelsohn	1
+185	David Teel	1
+185	DeanJ @ UVaAdmission	8
+185	GlobalHigherEd	1
+185	Inside Higher Ed	5
+185	Irene Villegas	1
+185	Jason Cavanaugh	2
+185	Jenna Johnson	1
+185	Jerry Ratcliffe	4
+185	John Edwin Mason	2
+185	Jonathan Tannenwald	1
+185	josh cockerill	1
+185	Justin Feldkamp	1
+185	Kacee Hutchinson	1
+185	.Keith.	1
+185	KLC	1
+185	Malachi 	1
+185	Mark Berman	1
+185	Matthew Cameron	1
+185	Mike Farrell	1
+185	Mike Slaven	9
+185	Mike Stevens	1
+185	Money Mitch	1
+185	Muziekgebouw 	5
+185	Nick Masters	5
+185	Samantha Wittchen	1
+185	Siva Vaidhyanathan	2
+185	Social Sciences-UvA	1
+185	Steve Megargee	2
+185	Steven Goff	1
+185	Suzi McC	8
+185	THE Anthony Olds II	2
+185	The Cavalier Daily	1
+185	The Daily Progress	14
+185	The Guru 	1
+185	The Hook newspaper	1
+185	The Roanoke Times	1
+185	Tracy Rhee	1
+185	Trust And You	1
+185	Tucker Martin	1
+185	UVA	1
+185	VirginiaTechFan	9
+185	YSC Sports	1
+185	Zachary Pfeffer	1
+185	ashley park 	1
+186	Bennett Sousa	1
+186	Brad Franklin	3
+186	Donnie D3	1
+186	Emmi	2
+186	GC Football	1
+186	Grauwe Kiekendief	1
+186	IDEAGRO	2
+186	Irene Molero	1
+186	Jack Hilton	1
+186	Jake D	1
+186	JC	1
+186	Jem Karacan	1
+186	Jenna Johnson	4
+186	Jesse Roth	2
+186	Jim Jansen	2
+186	Jonathan Tannenwald	5
+186	jtuttle	1
+186	Judith Carrera	1
+186	Justin Tidd 	2
+186	Juventud CYL	1
+186	Kendall Rogers	1
+186	Lisa McIntire	6
+186	maltastar	1
+186	Matthew S Wilkinson	1
+186	Michael Kelly	1
+186	Mike Farrell	2
+186	Muziekgebouw 	1
+186	Neil Taylor	1
+186	O que eu quero ser	1
+186	Phi Science Lab 	1
+186	poppy ismaya	1
+186	Quantay Olds	1
+186	Shawn Krest	2
+186	Siva Vaidhyanathan	1
+186	Steven Goff	2
+186	The Cavalier Daily	4
+186	Tom Nichols	1
+186	UB Amsterdam (UBA)	1
+186	UVA	1
+186	U.Va. Alumni	10
+186	Will Wright	7
+186	Winterlions	2
+186	Andrew Vutsinas	1
+187	Bennett Sousa	1
+187	chelsey lewis	1
+187	Citlali Escudero	1
+187	David Teel	1
+187	hooker	2
+187	Jim Jansen	1
+187	John Shifflett	1
+187	J.Rowland	1
+187	Julio Gaby Acevedo	1
+187	Kim Connolly	1
+187	Kirsten Smeele	2
+187	lexyelyse	1
+187	Mauxa.com	2
+187	Norris Brooks	1
+187	Noticias CyL	1
+187	Sara Forrest	2
+187	Sterre van der Hee	1
+187	UVA	1
+187	UVa Arts Library	2
+187	Olivia Irwin	1
+213	PJ McClane	1
+213	Carol Duncan	1
+214	Dr Bruce Yobbo, PhD*	2
+214	Kobah Brine	2
+214	Kora Kopieniak	1
+214	Kyle Cook	1
+214	Breaking News	2
+215	Verified Darth	1
+215	Abigail Fox	1
+216	Alex Sneider	1
+216	Andrew Vutsinas	1
+216	Borja Irastorza	1
+216	Brad Franklin	1
+216	Casey Kulina	2
+216	Daily Progress	1
+216	David Teel	6
+216	Jeff Wilcox (bodine)	3
+216	JWall	1
+216	Kristian Robinson	1
+216	michael phillips	1
+216	Nick West	6
+216	Norm Wood	1
+216	Recruit804	1
+216	The Cavalier Daily	2
+216	U.Va. Alumni	9
+216	UVa Men's Soccer	12
+216	WDBJ7Sports	2
+216	Wyeth Ruthven	1
+216	Adam Farley	1
+217	Andrew Vutsinas	2
+217	Anthony	1
+217	Ashley Marie Pacitto	1
+217	Brad Franklin	1
+217	Chris DiSano	1
+217	David Teel	4
+217	Drew Packard	2
+217	Frases Do Poeta Show	1
+217	Hoos Inc.	1
+217	Iannilli  Trattoria	3
+217	Jerry Ratcliffe	1
+217	Joe Rogan	1
+217	J.Rowland	1
+217	Katharine Palmer	4
+217	Kim Kastuk	2
+217	Lauren Perdue	4
+217	Mark Giannotto	3
+217	Meadowbrook Football	2
+217	Not Will Ferrell	1
+217	Ordinary Star Wars	1
+217	The Rowdy Red	1
+217	UVA	4
+217	U.Va. Alumni	6
+217	UVAStudentActivities	8
+217	Veronica Anne	1
+217	WUVA Online	6
+217	zjm	1
+217	Alex Alavi	1
+218	Beep Gould	1
+218	Brad Franklin	1
+218	Daily Progress	1
+218	David Teel	1
+218	FC! MineirasDoPedro	2
+218	Frank Howell	1
+218	IG: mymanzshep23	2
+218	John Edwin Mason	1
+218	J.Rowland	1
+218	Kristen Czajkowski	1
+218	Megan Rhyne	1
+218	Michal Ande	1
+218	Recruit804	1
+218	Regan Smith Clarke	1
+218	Rob Sievers	1
+218	Sarah Overcash	2
+218	Tahir Ahmad	1
+218	The Cavalier Daily	1
+218	The Rowdy Red	1
+218	UVA	4
+218	U.Va. Alumni	1
+218	Veronica Anne	1
+218	95-5 The Zone	1
+219	Alston Cobb	2
+219	Andrew Amaro	2
+219	Andrew Ramspacher	1
+219	Ant Harris	2
+219	Baruch College	3
+219	Baseball Wisdom	2
+219	Ben	3
+219	Brad Franklin	2
+219	Commerce School @UVA	2
+219	Daily Progress	1
+219	David Teel	1
+219	DeanJ @ UVaAdmission	1
+219	GC Football	3
+219	I love Valladolid	2
+219	Jacob Lawrence	1
+219	Jake.	1
+219	Jerry Ratcliffe	2
+219	Joe LoBello	2
+219	J.Rowland	1
+219	Justin Ferber	1
+219	Laya Mancik	2
+219	Leangelo Acuna	1
+219	Leslie Johnston	2
+219	Major Events Office	1
+219	Mark Giannotto	3
+219	Mary Jane	1
+219	Mary Louise Jones	1
+219	michael phillips	1
+219	Nick Anderson	1
+219	Nicole Burkhardt	1
+219	Noticias CyL	2
+219	Rob Sievers	1
+219	Sarah Overcash	1
+219	Siva Vaidhyanathan	1
+219	Steve Contorno	8
+219	Streaking the Lawn	2
+219	Tahir Ahmad	2
+219	Terrence Fullum	1
+219	The Cavalier Daily	1
+219	The D	1
+219	The Daily Progress	1
+219	U.Va. Alumni	1
+219	UVAStudentActivities	3
+219	Wahoo Wire	1
+219	WUVA Online	1
+219	Young & Flexxin	1
+219	95-5 The Zone	3
+220	97-5  WWWV	2
+220	Aaron McFarling	1
+220	ACC Sports	2
+220	Alston Cobb	4
+220	Andrew Ramspacher	1
+220	AZ3 OENO	7
+220	Baseball Players	2
+220	Brad Franklin	1
+220	Brian Schwartz	10
+220	Carl Deffenbaugh	2
+220	Charlie Tyson	1
+220	Chris Stover	1
+220	cvillenews.com	6
+220	Daily Progress	1
+220	David Teel	2
+220	Da Voice of Cville 	3
+220	Diana Kinney	1
+220	Dylan Fogarty	1
+220	eladelantado.com	1
+220	Felipe Mattarazzo	6
+220	Greg Burton	1
+220	Henry Graff	1
+220	Hoos Inc.	2
+220	Isabelle Khurshudyan	2
+220	Jake.	2
+220	Jane B Kulow	1
+220	jason	1
+220	JC Shurburtt	5
+220	Jerry Ratcliffe	3
+220	John Shifflett	7
+220	John Whittle	1
+220	Josh Orenstein	1
+220	J.Rowland	1
+220	Julie Carey	1
+220	Justin Ferber	4
+220	Kaz Komolafe	7
+220	Kent Zakour	1
+220	Kevin Kiley	7
+220	Kim Kastuk	7
+220	Kyle Bailey	1
+220	Mark Giannotto	1
+220	Marlon Stewart	13
+220	Matt McMullen	1
+220	Mauricio	1
+220	Michael	1
+220	NBC29	8
+220	Norm Wood	6
+220	Paul Woody	1
+220	Ryan Caler	1
+220	seantubbs	1
+220	Siva Vaidhyanathan	1
+220	Streaking the Lawn	4
+220	Supermercados MAS	17
+220	Ted Strong, reporter	1
+220	The Cavalier Daily	2
+220	The Hook newspaper	24
+220	The Roanoke Times	3
+220	UVA	1
+220	UVa Men's Soccer	7
+220	Vaughn Lowery	14
+220	Virginia Cavaliers	2
+220	VisitCharlottesville	2
+220	WCAV CBS19	1
+220	WDBJ7	5
+220	Alexandra	1
+221	Andrew Ramspacher	1
+221	Baseball Players	4
+221	Baseball Wisdom	1
+221	Brad Franklin	1
+221	Brian Schwartz	2
+221	Chris Stover	3
+221	Coy Barefoot	1
+221	cvillenews.com	2
+221	Daily Progress	1
+221	David Teel	1
+221	Davis Rudisill	1
+221	destiny holt.	1
+221	Edu_ Chavez!	1
+221	gene cox	1
+221	Graham Moomaw	4
+221	Greg Lewis	1
+221	IDEAGRO	2
+221	Jenna Johnson	3
+221	Jerry Ratcliffe	7
+221	John Shifflett	12
+221	Justin Ferber	6
+221	Karen Robles	6
+221	Kendall Rogers	2
+221	Kyle King	1
+221	MC Pittman	2
+221	michaelbhorn	3
+221	Mike London	5
+221	NBC29	6
+221	Paul Tenorio	2
+221	PostSchools	1
+221	Sami Alafandi	1
+221	Siva Vaidhyanathan	1
+221	Southern Pigskin	2
+221	Streaking the Lawn	1
+221	Tarkker	4
+221	TED	2
+221	The Cavalier Daily	1
+221	The Daily Progress	3
+221	The Hook newspaper	1
+221	Tom Fitch	4
+221	Travis Branham	2
+221	UVa ITS	1
+221	Virginia Baseball	1
+221	Aaron McFarling	1
+222	Alexandra	1
+222	Andrew Ramspacher	1
+222	Anthony	2
+222	Ben	1
+222	BonesTheDJ.com [804]	2
+222	Borja Irastorza	1
+222	Brad Franklin	1
+222	Brianna D.	4
+222	Brian Schwartz	3
+222	Bri Moran	1
+222	Daily Progress	1
+222	Darden entrepreneurs	2
+222	David Teel	1
+222	Davis Rudisill	2
+222	Hoos Inc.	1
+222	IG: uScreamin_Jones	1
+222	Jake Domenic	1
+222	Jannet Ochoa	1
+222	j-baller	2
+222	Jenna Johnson	1
+222	Jerry Ratcliffe	1
+222	Jessica Kirschnick	1
+222	Joy and Destroy 	3
+222	Keith Pompey	1
+222	Kim Connolly	1
+222	Mark Giannotto	1
+222	MC Pittman	7
+222	Mike Spadafore	1
+222	NBC29	1
+222	Not Bill Walton	3
+222	Paige Tinney	2
+222	Payton Lookenbill	1
+222	Ryan Best	1
+222	Simba The God	1
+222	Stacy Smith	1
+222	Streaking the Lawn	1
+222	Susan M. Baxter	28
+222	Suzi McC	1
+222	TED	1
+222	The Hook newspaper	1
+222	United4Honor	2
+222	U.Va. Alumni	1
+222	UVA Faculty Senate	9
+222	UvA_rooster	10
+222	UVA School of Ed	1
+222	Virginia Cavaliers	1
+222	WUVA Online	3
+222	Yoda	1
+222	Yotta	1
+222	Andrew Ramspacher	1
+223	BAILEY B	1
+223	Birgitta Seegers	4
+223	Bodega Contiempo	1
+223	Brad Franklin	4
+223	Chase After A Cure	2
+223	Commerce School @UVA	2
+223	Coy Barefoot	1
+223	Daily Progress	1
+223	David Wilson	1
+223	Diana Kinney	2
+223	Efeagro 	1
+223	Graham Moomaw	1
+223	IG: uScreamin_Jones	5
+223	Isiah Cowan	1
+223	Jack Covell	1
+223	Jenna Johnson	1
+223	John Muccigrosso	1
+223	John Wesley Lowery	1
+223	J.Rowland	1
+223	Krista Pedersen	2
+223	Lambeth Field	9
+223	Mark Giannotto	4
+223	Mededitor	2
+223	Michael Costa	1
+223	Mike London	2
+223	Mike Spadafore	1
+223	Norm Wood	1
+223	Not Bill Walton	2
+223	Revista MilMesetas	1
+223	Royce Da 5'8	1
+223	Sean McCord	1
+223	Social Sciences-UvA	2
+223	Soupy	2
+223	Streaking the Lawn	1
+223	Suzi McC	4
+223	Tammy Perdue McClung	2
+223	The Daily Progress	2
+223	Tyler Kingkade	1
+223	U.Va. Alumni	2
+223	UVa Men's Soccer	2
+223	Virginia Baseball	4
+223	Wine Taste Lovers	4
+223	WVSports.com	1
+223	Yotta	1
+223	Anish Randeria	1
+224	BAILEY B	1
+224	Brad Franklin	1
+224	Brandon Adams	1
+224	ColleenCarroll	1
+224	Coy Barefoot	1
+224	Federica Guidali	1
+224	Funny Basketball	1
+224	Jae Jae Johnson	1
+224	Jake Hendrix	1
+224	Jannet Ochoa	2
+224	Joey Riesett	1
+224	John Shifflett	1
+224	Keith Olbermann	3
+224	Lambeth Field	1
+224	Max Fenton 	1
+224	Patrick Hanley	2
+224	soy Dominicano mami	2
+224	starz #7	1
+224	Suzi McC	1
+224	Tenerife Ocio	2
+224	The Cavalier Daily	3
+224	The Daily Progress	3
+224	U.Va. Alumni	2
+224	UVA Faculty Senate	1
+224	Veiga de Almeida	1
+224	Ant Harris	1
+225	Comune di Capoliveri	1
+225	CricInfo Score	1
+225	Darth Vader	1
+225	DJ STOUNDYN	1
+225	I. Like. Sneakers 	2
+225	JJ Morrissey	1
+225	Johnny Carpenter	3
+225	John Shifflett	1
+225	Justin Ferber	3
+225	Kenan Seither	3
+225	Kendyl Ella Puckett	1
+225	Shujaat  Ahmed	1
+225	Space_Bat_Killer	1
+225	Suzi McC	1
+225	UVA Faculty Senate	1
+225	Veiga de Almeida	2
+225	Virginia Cavaliers	1
+225	Wahoo Wire	1
+225	Andrew Ramspacher	11
+226	Ben	1
+226	Brad Franklin	1
+226	Carrie Young	1
+226	Casey Silver	2
+226	Comune di Capoliveri	1
+226	cori	1
+226	Cory J. Gillespie	1
+226	Damon Dillman	1
+226	Darden entrepreneurs	1
+226	Darden School at UVA	1
+226	Gabriel Villas	2
+226	Isabella kim	27
+226	Jenna Johnson	2
+226	Jerry Ratcliffe	1
+226	John Edwin Mason	3
+226	Leticia Olmos	1
+226	Mandy Janowitz 	1
+226	michael phillips	1
+226	M. Joel Voss	14
+226	Natalia Gil Robles	1
+226	Nick Anderson	1
+226	Patrick Hanley	1
+226	Rene	1
+226	Roger Dean	1
+226	Streaking the Lawn	1
+226	The Daily Progress	10
+226	UVA	1
+226	UVa Men's Soccer	11
+226	Veiga de Almeida	7
+226	Virginia Cavaliers	2
+226	Virginia Wrestling	1
+226	Wahoo Wire	4
+226	Wes McElroy	3
+226	ACC Digital Network	1
+227	Alderaan	1
+227	Alex Farmartino	1
+227	Andrew Hudson	1
+227	Andrew Ramspacher	1
+227	Batten Institute	1
+227	Brad Franklin	2
+227	brian mackenzie	1
+227	Brian Schwartz	1
+227	Bri Moran	4
+227	David Teel	1
+227	DeanJ @ UVaAdmission	1
+227	destiny holt.	1
+227	Devin Johnson	1
+227	Dolan 	1
+227	Faux John Madden	1
+227	Fearless and True	1
+227	Felicity Hane	3
+227	Frankie Sharpe	1
+227	Gabriel Villas	1
+227	Greg Burton	1
+227	Jerry Ratcliffe	1
+227	Jim Dunaway	8
+227	Justin Hokanson	2
+227	Lambeth Field	1
+227	Major Events Office	1
+227	Matt Fisher	1
+227	Michael Bradley	1
+227	michael phillips	1
+227	Michelle Vittese	11
+227	Mike Farrell	5
+227	Morgan Blankenship	8
+227	Nate	2
+227	Net Stangle-Castor	1
+227	Nick Hulse	1
+227	Norm Wood	2
+227	Rae Anne Miller	1
+227	Real Talk	1
+227	Ricky Tan	1
+227	Sarah Taylor	1
+227	Social Sciences-UvA	1
+227	Streaking the Lawn	3
+227	Suzi McC	20
+227	tepes dracul	4
+227	The Daily Progress	2
+227	Tom Fitch	5
+227	United4Honor	1
+227	UVA	2
+227	U.Va. Alumni	21
+227	UVa Men's Soccer	2
+227	VaCollegeAirline	2
+227	Vickieeeee.	1
+227	Virginia Cavaliers	2
+227	VolunTEEN Nation	1
+227	WarBlogle.com	2
+227	BonesTheDJ.com [804]	6
+228	Brad Franklin	2
+228	CVille Food	1
+228	Dubz_hood	1
+228	Greg Lewis	1
+228	Henry Graff	1
+228	Hoopla Hokies	1
+228	Jenna Johnson	3
+228	Jim Dunaway	10
+228	John Shifflett	1
+228	J.Rowland	3
+228	Justin Bieber	3
+228	Keith Niebuhr	1
+228	Long Cat	1
+228	Luke	3
+228	Main Street Market	1
+228	Major Events Office	1
+228	Mark Giannotto	1
+228	Matthew Cameron	3
+228	Mike Farrell	1
+228	NBC29	5
+228	Owen McQ	5
+228	Patrick Hanley	1
+228	Ryan Zinkhan	1
+228	Social Sciences-UvA	1
+228	Streaking the Lawn	4
+228	Suzi McC	3
+228	Ted Strong, reporter	1
+228	The Cavalier Daily	7
+228	The Daily Progress	6
+228	The Hook newspaper	8
+228	UVA	6
+228	U.Va. Alumni	3
+228	UVA Faculty Senate	1
+228	UVa Men's Soccer	6
+228	Virginia Baseball	8
+228	VirginiaTechFan	5
+228	WCAV CBS19	1
+228	Wynn Toms	3
+228	17B Giants Tailgate	1
+229	ACE	1
+229	Agnes Binagwaho	1
+229	Andrew Ramspacher	4
+229	Asuntos_SocialesUVa	2
+229	Becca Smoot	1
+229	Brad Franklin	1
+229	Chris Stover	3
+229	Community Relations	2
+229	Cristel van de Ven	1
+229	Daily Progress	1
+229	Frank Huysmans	1
+229	GC Football	7
+229	GlobalHigherEd	1
+229	Hoopla Hokies	1
+229	Jane B Kulow	2
+229	Jenna Johnson	2
+229	John Shifflett	1
+229	Justin Ferber	3
+229	Katie Merendino	2
+229	Kaz Komolafe	1
+229	LUNCH in your BOX	1
+229	Mark Giannotto	1
+229	michael phillips	2
+229	Mike Farrell	6
+229	Mr.MEonlyJP	26
+229	Nathan Warters	1
+229	NBC29	1
+229	Quelujo Gastro Vino	14
+229	Sean Kennedy	2
+229	Stacey McDonough	1
+229	Streaking the Lawn	1
+229	Ted Strong, reporter	1
+229	The Cavalier Daily	1
+229	The Hook newspaper	3
+229	UVA	5
+229	UVa Men's Soccer	3
+229	Virginia Baseball	1
+229	Virginia Cavaliers	1
+229	WarBlogle.com	18
+229	Andrew Ramspacher	1
+230	AP_Top25	1
+230	Brad Franklin	3
+230	Brian Furr	1
+230	Brian Schwartz	1
+230	Carrie Young	1
+230	CricInfo Score	1
+230	Daily Progress	1
+230	DeanJ @ UVaAdmission	1
+230	Elyse Eilerman	1
+230	furrer4heisman	4
+230	Hist. Museum JoCas	2
+230	HokieHaven.com	1
+230	Jeff Malmgren	1
+230	Justin Lee	3
+230	Maddie Olmsted	1
+230	Major Events Office	1
+230	Mark Giannotto	2
+230	Michael Bradley	7
+230	Mike London	1
+230	Norm Wood	13
+230	Paul Shockley	6
+230	Ramona Rice	1
+230	R_A_Thomas	1
+230	Sarah Peelen	1
+230	Sarah Pfeiffer	1
+230	SmartVineyard	1
+230	Stephanie Cox	1
+230	Streaking the Lawn	2
+230	Suzi McC	9
+230	UVA	1
+230	UVa Men's Soccer	6
+230	Veiga de Almeida	2
+230	Virginia Cavaliers	1
+230	Wahoo Metrics	1
+230	Agnes Binagwaho	2
+231	Andrew Ramspacher	2
+231	BleedTechBlue.com	4
+231	Bryan Fetzer	1
+231	College Counselors	1
+231	Dan 	2
+231	Diana Kinney	3
+231	Elyse Eilerman	1
+231	Frankie =)	2
+231	Jerry Ratcliffe	1
+231	Johnnie Martin	9
+231	joshua	1
+231	Lambeth Field	2
+231	liam?	1
+231	Love Jonson	1
+231	Mark Giannotto	2
+231	Mike London	1
+231	Scorebusters	7
+231	Streaking the Lawn	1
+231	Tucker Martin	2
+231	UVA	1
+231	UVa Men's Soccer	2
+231	Virginia Wrestling	9
+231	Allison Doughty	4
+232	Amy Rocco	1
+232	Andrew Ramspacher	1
+232	Brittney Williams	3
+232	Critter #BEATALABAMA	3
+232	Daily Progress	1
+232	Erin Jackson	1
+232	John Shifflett	1
+232	Kevin Rankin	3
+232	Kimberly King	1
+232	Maggie Mathews	3
+232	Manolo segarra	1
+232	Mike Tetreault	1
+232	Phillip Sims	3
+232	Rachel	9
+232	Sidath Sameera	2
+232	Streaking the Lawn	1
+232	The Daily Progress	2
+232	UVaAlumProblems	4
+232	UVa Men's Soccer	2
+232	-	5
+233	abraham trevino	1
+233	Andrew Hudson	1
+233	Areeeeb	1
+233	Ben Hill	1
+233	Brad Franklin	1
+233	Christopher Darden	15
+233	Cinelli Colombini	1
+233	Connor Jones	1
+233	#CRZYbuz Founder	2
+233	Daily Update - SFN	1
+233	Damon Dillman	1
+233	Daniel Long	1
+233	David Teel	1
+233	FanOfDirtyBirdGang	3
+233	FOLLOW @neisharee	1
+233	Graham Moomaw	1
+233	InsideNoVA	1
+233	Jerry Ratcliffe	1
+233	Jim Jansen	11
+233	Jonas Sakamoto	1
+233	Josh Bland	1
+233	J.Rowland	1
+233	Justin Ferber	1
+233	Land.o 	4
+233	Leon Oliver	6
+233	Mark Giannotto	2
+233	michael phillips	4
+233	Michelle Vittese	7
+233	Mike Farrell	2
+233	Norm Wood	4
+233	Phillip Sims	4
+233	SMACKBOY	4
+233	soy Dominicano mami	1
+233	Spencer Serling	2
+233	Streaking the Lawn	1
+233	theo ploeg	4
+233	UVA	4
+233	U.Va. Alumni	11
+233	UVa ITS	3
+233	UVa Men's Soccer	1
+233	Virginia Cavaliers	1
+233	VisitCharlottesville	1
+233	WVSports.com	1
+233	Zirkle Blakey	1
+233	ACC Sports	1
+234	Alex	3
+234	Andrew Ramspacher	1
+234	Austin Perry	14
+234	Brad Franklin	1
+234	Brian Schwartz	33
+234	Cian Harries	6
+234	Daily Progress	1
+234	Damon Dillman	5
+234	David Teel	2
+234	Demetrious Nicholson	1
+234	Emily Riner	13
+234	Gold And Blue Zone	1
+234	Go Mountaineers!	4
+234	Graham Moomaw	3
+234	Henry Graff	4
+234	IBiS	1
+234	IG: _jaysuave	1
+234	Jamie Mitchell	1
+234	Jamie Oakes	1
+234	Jerry Ratcliffe	1
+234	Joe LeCates	6
+234	John Shifflett	4
+234	Jon Martin	1
+234	Joshua Moran	5
+234	Justin Ferber	1
+234	Keith Niebuhr	4
+234	Lisa Stewart	1
+234	malaya       	1
+234	Mark Giannotto	1
+234	Matt Friedman	15
+234	Matthew Cameron	1
+234	michael phillips	1
+234	Mike Farrell	2
+234	Mike G.	13
+234	Mike London	10
+234	Name	92
+234	Natalie Coleman	1
+234	NBC29	1
+234	Norm Wood	3
+234	Rivals.com	2
+234	Stephen Turner	10
+234	Streaking the Lawn	1
+234	Tammara	44
+234	Ted Greener	1
+234	The Daily Progress	1
+234	THE KEY PLAY	4
+234	The Opening	10
+234	TRINITYPREZ	1
+234	UVA	1
+234	UVa Men's Soccer	5
+234	UVAStudentActivities	1
+234	Wahoo Wire	1
+234	WVSports.com	2
+234	Young & Flexxin	1
+234	Arron Leeman	24
+235	Charlie King	1
+235	karley mann	5
+235	Robert E. Williams	2
+235	UVA Faculty Senate	1
+235	Alisha Richardson	2
+236	Brady Hickey	1
+236	cammy gee	2
+236	Hannah Moghaddas	2
+236	Josh Windass	1
+236	Liam Coxon	1
+236	Marcus	1
+236	PostSchools	1
+236	Randy Anderson	1
+236	stu morgan	1
+236	The Cavalier Daily	1
+236	Tom	5
+236	Zacharia Evans	1
+236	Africa Business Comm	2
+237	amoelcine.com	1
+237	Carlton McCabe	11
+237	Carly Cahill	1
+237	Daniel Jones	1
+237	Daniel Marinos	1
+237	Nathan Gainey	3
+237	Sullivan and Son	1
+237	Survival Sherpa	3
+237	Jessss	1
+238	Manu Ledesma	2
+238	Amanda Burkard	1
+239	Andrew Ramspacher	1
+239	A.S. D'Urso	6
+239	AwesomeCapital	1
+239	Ben	1
+239	Ben Walsh 	1
+239	Black RVA	1
+239	Chanel	1
+239	Daily Progress	2
+239	Eric Schubert	3
+239	Fox News	1
+239	Jacoby Diamond	76
+239	Jamil Kamara	1
+239	Jessss	6
+239	John Shifflett	2
+239	Joshua	1
+239	Katrina Artache 	1
+239	Lambeth Field	1
+239	Larry Sabato	1
+239	Leah	3
+239	Lewis Lavender	2
+239	LUNCH in your BOX	1
+239	Matthew Hatfield	2
+239	Mr. Tasteful	1
+239	Nathan Jewell	1
+239	Rachael	1
+239	Rhianna Lawson	2
+239	StPaulsMemorial	1
+239	suebob212	2
+239	suz *:.	1
+239	The Hook newspaper	2
+239	Tyrabia Womble	1
+239	UVA	1
+239	UVA Lax Fan	20
+239	Virginia Bluebell	1
+239	Wes Suggs	4
+239	WUVA Online	2
+239	Allison Teweles	1
+240	Andrew Ramspacher	1
+240	ASVA studentenunie	15
+240	Ben	1
+240	Bereniceortiz	1
+240	Besana PortalAgrario	2
+240	BK	2
+240	Bodega Contiempo	1
+240	Brad Franklin	1
+240	Brendan Wynn	5
+240	Brian Schwartz	1
+240	Carl Deffenbaugh	2
+240	Chanel	3
+240	Choi 	1
+240	C@n@@n Severin	1
+240	CVille Bars	4
+240	Daily Progress	2
+240	Damon Dillman	2
+240	Daria Winsky	3
+240	Dave Koehn	1
+240	David Teel	4
+240	DeniseSawyer.com	5
+240	Elly	2
+240	fetch	1
+240	Fox News	1
+240	InsideTheACC	6
+240	Jakeeeee	1
+240	Jamil Kamara	1
+240	Jerry Ratcliffe	1
+240	Jim McLaughlin	5
+240	Joe Llewelyn	1
+240	John Shifflett	1
+240	J.Rowland	1
+240	Justin Feldkamp	1
+240	Justin Haney	1
+240	Kaleigh Brown	1
+240	kerry dougherty	1
+240	Lambeth Field	1
+240	Little Fish Prod	1
+240	Love Jonson	1
+240	Major Events Office	1
+240	Mark Giannotto	4
+240	Mark Payne	8
+240	Mark Watlock	1
+240	mary topp	2
+240	Maya Rebecca	2
+240	Meg Chatterton	1
+240	Mercados	1
+240	michael phillips	1
+240	NederlandsJeugdinst.	8
+240	Nina Satasiya	3
+240	Norm Wood	1
+240	Peyton Chaney	1
+240	Rachel	1
+240	Regina Phalange	1
+240	Shara Fuller	2
+240	Skinny Hardaway	1
+240	Stacy Smith	2
+240	Streaking the Lawn	1
+240	Sullivan University	10
+240	Sustain, Inc.	1
+240	The Cavalier Daily	1
+240	The Daily Progress	6
+240	Tierra Nuestra	2
+240	UVA	1
+240	U.Va. Alumni	8
+240	UVa ITS	5
+240	Uvasdoce	1
+240	UvA_Student	1
+240	Virginia21	1
+240	Virginia Reunions	2
+240	WDBJ7Sports	1
+240	Andrew Ramspacher	2
+241	Atze 	1
+241	Bethany Nowviskie	1
+241	Brad Franklin	3
+241	Chris Stover	6
+241	Claire Bischoff	6
+241	Collecties UvA	4
+241	Connor Jones	2
+241	C-VILLE News Desk	1
+241	Daily Progress	1
+241	Darden School at UVA	1
+241	Derick Waller WNCN	2
+241	DreamChaser	1
+241	el chaletrestaurante	2
+241	elizabethany	1
+241	Fabrizio Pivi	1
+241	Farveez Maharoof 	1
+241	Ferdinand vd Velde	5
+241	Fox News	2
+241	GEE PEE. 	3
+241	Graham Moomaw	1
+241	Haleigh	1
+241	Ilse Zaal	1
+241	Jerry Ratcliffe	2
+241	Jody	12
+241	J.Rowland	1
+241	Kendall Rogers	9
+241	Larry Sabato	6
+241	Lauren Boyd	1
+241	Major Events Office	1
+241	Matthew Cameron	7
+241	Miami Improv	1
+241	Michael Carvell	4
+241	michael phillips	1
+241	Mike London	2
+241	NBC29	9
+241	Piratenpartij NLD	1
+241	Quidditch at UVA	4
+241	Rick Vermin	1
+241	RNR	2
+241	Ryan Mayhew	1
+241	Ryan Zinkhan	1
+241	Scott Barron	1
+241	Stacy Smith	1
+241	Streaking the Lawn	1
+241	Suzi McC	1
+241	Ted Strong, reporter	1
+241	The Cavalier Daily	1
+241	The Daily Progress	2
+241	The Sabre 	2
+241	United4Honor	2
+241	UVA	1
+241	UVA Faculty Senate	21
+241	UVA FSL	5
+241	UVA Serp Society	1
+241	UVAStudentActivities	1
+241	Virginia Bluebell	10
+241	VirginiaSportsTV.com	1
+241	vladimir flores 	3
+241	Zack Greenslade	1
+241	Alex Peterson	1
+242	Autokompas	1
+242	Ben	1
+242	Brian Schwartz	1
+242	Charlie North	1
+242	Chris Vannini	1
+242	Claire Bischoff	2
+242	#CRZYbuz Founder	1
+242	C-VILLE News Desk	2
+242	Daily Progress	2
+242	Dan Crawford	2
+242	Darden School at UVA	1
+242	David Price	2
+242	Da Voice of Cville 	1
+242	DeanJ @ UVaAdmission	1
+242	Diana Kinney	9
+242	Donna Moderna	1
+242	el chaletrestaurante	1
+242	Evanescense.	1
+242	Finca Azebuche	1
+242	Fox News	1
+242	Frank Visser	1
+242	Frappstore.nl	4
+242	Greg Lewis	1
+242	Island Surf Company	2
+242	jaryn g.	1
+242	Jenifer Carter	2
+242	Jerry Ratcliffe	1
+242	Jess Bailey	4
+242	Jordan Ambition	1
+242	Justin Anderson	1
+242	Kendall Rogers	7
+242	Margaret Chadbourn	1
+242	Mark Giannotto	1
+242	Matthew Hatfield	4
+242	Mercados	2
+242	Miami Improv	1
+242	Michael Carvell	1
+242	Michael Connolly	3
+242	michael phillips	2
+242	NBC29	1
+242	OFA VA	4
+242	Patrick Piper	8
+242	ProfB	1
+242	Sarah Beth Barnette	3
+242	Siva Vaidhyanathan	4
+242	Stephanie Green	3
+242	Streaking the Lawn	2
+242	The Cavalier Daily	2
+242	UVA	6
+242	U.Va. Alumni	6
+242	UVA Faculty Senate	1
+242	UVa ITS	1
+242	Uvasdoce	3
+242	UVAStudentActivities	1
+242	Virginia Football	4
+242	vladimir flores 	11
+242	adam may	1
+243	Alex Hedley	1
+243	Amber Dewey	2
+243	AP_Top25	1
+243	B.	4
+243	Ben	2
+243	Bethany Nowviskie	2
+243	Brad Franklin	1
+243	Brian Schwartz	4
+243	Bud Foster	1
+243	Byron Kerr	1
+243	CBEcongres	2
+243	CBS 6 WTVR Richmond	1
+243	Choc Ice	1
+243	Cinelli Colombini	2
+243	#CRZYbuz Founder	1
+243	Daily Press	1
+243	Danielle Anastasi	1
+243	Daniel R. Nalda	1
+243	Dave Ensberg	1
+243	David Teel	4
+243	DeanJ @ UVaAdmission	1
+243	EvanGWatkins247	4
+243	Folia Web	1
+243	FOX News Radio	1
+243	Frank Visser	6
+243	Frida	1
+243	Ginger Germani	2
+243	Hank Silverberg	1
+243	Hoopla Hokies	4
+243	IG: 2amwordplay	2
+243	I LOVE HANK	1
+243	Jack Waldren	2
+243	JD Amsterdam	1
+243	Jeff Ermann	2
+243	Jerry Ratcliffe	1
+243	Jointhepipe	2
+243	Jussi Parikka	1
+243	Justin Anderson	3
+243	Kieun Choi	2
+243	Kim Anthes	1
+243	Kofi Levi Rowe	1
+243	Lindsey Cornelius	1
+243	Maarten Markus	1
+243	Margie Martinez	1
+243	Mark Giannotto	1
+243	Marlena Spencer	4
+243	michael phillips	5
+243	Mike Farrell	1
+243	Mitch Langos	4
+243	Morgan	1
+243	Nadia Thorburn	1
+243	NBC29 Huguely Trial 	2
+243	Noor Mufti	1
+243	Norm Wood	1
+243	Paul and Young Ron	2
+243	ProgressPAC	1
+243	Rachel	2
+243	Rhianna Lawson	1
+243	Richmond Football	1
+243	Robin van Maris	1
+243	ry.	1
+243	Sarah Beth Barnette	1
+243	Spanish Products	1
+243	Steve Chenevey	1
+243	Steven Goff	2
+243	Streaking the Lawn	1
+243	The Cavalier Daily	2
+243	The Roanoke Times	1
+243	TuTu Lewis	1
+243	U.Va. Alumni	1
+243	UVA Engineering	3
+243	UVa Men's Soccer	1
+243	UvA_Student	3
+243	UVAStudentActivities	1
+243	Virginia Baseball	1
+243	Virginia Football	3
+243	WTOP 	5
+243	Adriana Strum	4
+244	Alberto Cari	1
+244	Allison Xu	1
+244	Ania Wieckowski	1
+244	Bria Bartolotta	1
+244	Bud Foster	1
+244	Cinelli Colombini	1
+244	CJ Redden	1
+244	Damon Dillman	1
+244	effie	1
+244	Fox News	1
+244	Frappstore.nl	2
+244	Keith Niebuhr	2
+244	Lambeth Field	4
+244	Madison Dick	1
+244	Mark Giannotto	1
+244	Mike Farrell	9
+244	RyanFinch	1
+244	Siva Vaidhyanathan	1
+244	Skeeze	2
+244	Streaking the Lawn	1
+244	The Roanoke Times	1
+244	UVa Men's Soccer	1
+244	Virginia Baseball	2
+244	TJ's UVA	2
+255	UVA	2
+255	TJ's UVA	1
+256	WUVA Online	1
+256	TJ's UVA	1
+259	Suzi McC	1
+268	Suzi McC	1
