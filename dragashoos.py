@@ -21,7 +21,7 @@ with sys.stdin as f:
 
         text = data["text"]
 
-        if 'Dragas' in text:
+        if 'Dragas' in text and not '#HoosforSullivan' in text:
             print '{0}\t{1}'.format(date_object.timetuple().tm_yday,1)
 	    
 		
